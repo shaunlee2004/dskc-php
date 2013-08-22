@@ -4,14 +4,16 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 		class Controller_Page extends Controller_Basic {
 			public $pageData = array(
 					'headerTitle' => 'default header title',
-					'headerSubtitle' => 'default header subtitle'
+					'headerSubtitle' => 'default header subtitle',
+					'mainContent' => 'default main content'
 			);
 	
 			public function action_home() {
 				$this->template->title = __ ( 'Welcome To Dominion Shotokan Karate Club' );
 				$this->pageData['headerTitle'] = 'Dominion Shotokan Karate Club, LLC';
-				$this->pageData['headerSubtitle'] = 'Traditional Shotokan Karate Instruction';				
-				$this->template->content = View::factory ( 'home', $this->pageData );
+				$this->pageData['headerSubtitle'] = 'Traditional Shotokan Karate Instruction';
+				$this->pageData['mainContent'] = View::factory ('home');		
+				$this->template->content = View::factory ( 'pageTemplate', $this->pageData );
 			}
 			public function action_news() {
 				$this->template->title = __ ( 'News' );
