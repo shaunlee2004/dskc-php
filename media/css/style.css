@@ -1,0 +1,117 @@
+BODY {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	min-width: 1000px;
+	background-color: #253447; 
+}
+
+a:link {
+	color: #0000FF;
+}
+a:hover {
+	color: #00FF00;
+}
+
+a:visited {
+	color: #0000FF;
+}
+
+
+#pagewrapper {
+	text-align: left;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 800px;
+	/*border: solid 1px red;*/
+}
+
+#headerBuffer{
+	height: 70px;
+	/*border: 1px solid red; */
+}
+
+#header {
+      /* border: 1px solid red; */
+      height: 122px;
+      width: 998px;
+      background: url('/dskc/media/img/generic_dusk_header-998x78.jpg') no-repeat,
+      	url('/dskc/media/img/generic_dusk_search_bar_background_tile.gif') bottom, no-repeat;
+}      
+ /*top:82;width:998;height:44;*/
+ 
+#header .logo {
+	position: absolute;
+	float: left;
+	height: 200px;
+    width: 200px;
+	background: url('/dskc/media/img/site_logo_-_200x200_-_transparent.gif') no-repeat;
+		
+}
+
+
+#header .subheader{
+      /* border: 1px solid red; */
+      height: 78px;
+      width: 998px;
+      background: url('/dskc/media/img/generic_dusk_search_bar_background_tile.gif') repeat;
+} 
+
+#header .title {
+	position: relative;
+	left: 170px;
+	color: #D4A84B;
+	size: 6;
+	font-size: 30px;
+	line-height: 35px;
+}
+
+#header .subtitle {
+	position: relative;
+	left: 190px;
+	color: #D4A84B;
+	size: 4;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#content {
+	font-family: Arial;
+    font-size: 14px;
+    line-height: 17px;
+    min-height: 400px;
+    color: #979BA0;
+    height: auto;
+}
+
+#content .title {
+	 font-family: Arial;
+	 font-size: 14px;
+	 font-weight: bold;
+	 color: #D4A84B;
+	 line-height: 17px;
+}
+
+#sidebar {
+	position: relative;
+    display: block;
+    float: left;
+    width: 100px;
+    padding-top: 80px;
+    /*border: 1px solid blue;*/
+}
+
+#footer {
+    text-align: center;
+	height: 44px;
+    width: 1000px;
+    background: url('/dskc/media/img/generic_dusk_footer-760x44.gif') no-repeat center;
+	color: #D4A84B;
+	font-size: 12px;
+	line-height: 44px;
+}
+
+#clearfloat{
+	clear:both;
+}
