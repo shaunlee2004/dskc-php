@@ -19,8 +19,8 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->template->title = __ ( 'News' );
 				$this->pageData['headerTitle'] = 'News';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
-				
-				$this->template->content = View::factory ( 'news' );
+				$this->pageData['mainContent'] = View::factory ( 'news' );
+				$this->template->content = View::factory ( 'pageTemplate', $this->pageData );
 			}
 			public function action_instructors() {
 				$this->template->title = __ ( 'Instructors' );
@@ -34,8 +34,12 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			}
 			public function action_dojoRules() {
 				$this->template->title = __ ( 'Dojo Rules - Introduction' );
+				$this->pageData['headerTitle'] = 'Dominion Shotokan Karate Club, LLC';
+				$this->pageData['headerSubtitle'] = 'Traditional Shotokan Karate Instruction';
+				$this->pageData['mainContent'] = View::factory ('dojorules-introduction');
+				$this->template->content = View::factory ( 'pageTemplate', $this->pageData );
 				
-				$this->template->content = View::factory ( 'dojorules-introduction' );
+			
 			}
 			public function action_dojoRulesFaqs() {
 				$this->template->title = __ ( 'Dojo Rules - FAQs' );

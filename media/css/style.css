@@ -115,3 +115,7 @@ a:visited {
 #clearfloat{
 	clear:both;
 }
+
+.japaneseTerm{
+	font-weight: bold;
+}
