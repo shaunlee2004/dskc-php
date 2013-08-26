@@ -127,3 +127,5 @@ Route::set('default', '(<controller>(/<action>(/<id>)))')
 		'controller' => 'welcome',
 		'action'     => 'index',
 	));
+
+Cookie::$salt = 'shotokan';
