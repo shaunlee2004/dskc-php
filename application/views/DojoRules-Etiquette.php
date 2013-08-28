@@ -1,42 +1,136 @@
-<!--$sitebuilder version="2.8.5" extra="Java(1.7.0_09)" md5="4e8922df5b4cb5836c0b612edbfb7613"$-->
-<!--$templateKey Blank||1.0.0$-->
-<html>
-  <head>
-    <title>Events</title>
-    <meta name="generator" content="Yahoo! SiteBuilder/2.8.5/1.7.0_09">
-    <meta name="description" content="Dominion Shotokan Karate Club, LLC calendar of upcoming events">
-    <meta name="keywords" content="Shotokan, karate, classes">
-    <!--$page size 1005, 3000$-->
-    <!--$page margin 0, 0, 20, 0$-->
-    <!--$centered$-->
-    <!--$fontFamily Arial$-->
-    <!--$fontSize 14$-->
-    <style type="text/css"><!--
-      BODY {font-family:"Arial"; font-size:14;margin:0px;padding:0px;text-align:center;min-width:999px;}
-      P {font-family:"Arial"; font-size:14;}
-      FORM {margin:0;padding:0;}
-      #centerwrapper {text-align:left;width:999px;margin-left:auto;margin-right:auto;}
-    --></style>
-  </head>
-  <body bgcolor="#253447" text="#000000" link="#0000FF" vlink="#800080" topmargin="0" leftmargin="0">
-
-<!--$begin exclude$-->
-    <div id="centerwrapper">
-      <div id="root" style="position:absolute;width:999px;height:1479px;">
-<!--$end exclude$-->
-        <div id="e0" style="position:absolute;left:1;top:0;width:998;height:78;"><!--$img %ImageAssetImpl:/images/generic_dusk_header.jpg$--><img src="sitebuilder/images/generic_dusk_header-998x78.jpg" width="998" height="78" alt=""></div>        <div id="e1" style="position:absolute;left:1;top:78;width:998;height:44;"><img src="images/generic_dusk_search_bar_background_tile.gif" width="998" height="44" alt=""></div>        <div id="e2" style="position:absolute;left:150;top:25;width:730;height:40;"><span class="text"><font color="#D4A84B" size="6"><span style="font-size:30px;line-height:35px;">Dojo Rules - Etiquette<br/></span></font></span>        </div>
-        <div id="e3" style="position:absolute;left:155;top:175;width:675;height:1222;"><span class="text"><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8220;Karate begins and ends with courtesy&#8221;<br>Master Gichin Funakoshi<br><br></span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">Shotokan is a traditional Japanese martial art and, as such, the guidelines of behavior and etiquette in the </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">dojo</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> are the <br/>same as if you were training in Japan. You are required to show the proper respect to the </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">shomen, sensei</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> and the </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">sempai</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> <br/>(senior students) at all times. In addition, you must show respect to the training facility by bowing when you enter and when <br/>you leave.<br><br></span></font><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Bowing<br><br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">Stand straight with your hands at your sides, heels together and toes at an angle of 45 degrees. Bend slowly forward until <br/>fingers touch the knees and then stand up again. Do not slap your thighs or curl your neck.<br><br>When performing a seated bow, begin in the same position as the standing bow, and then put your left knee on the ground. <br/>Continue with the right knee and sit on your heels with your back straight and looking toward the front. When instructed to <br/>bow, or </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">rei</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, place both hands on the floor in front of you and bend at the hips until your head touches your hands. Do not rise <br/>until the person you are bowing to rises. When told to stand, raise your body vertically and place your right foot on the <br/>ground. Stand and bring both feet to </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">musubi dachi</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">. Do not place your hands on the floor in order to get up or to kneel. Do <br/>not be concerned about making a mistake; you will be instructed in the proper procedure by another student on your first <br/>day.<br><br></span></font><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Standing<br><br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">It is impolite to stand with your arms crossed or hands on your hips. Stand in a natural position, relaxed with your weight on <br/>both feet. Hands can be in front, behind or to the sides of your body.<br><br></span></font><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Sitting<br><br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">There are only two ways to sit in the</span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> dojo</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">: formally sitting on your heels in </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">zazen</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> or </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">seiza</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> position and cross-legged. If you <br/>have a medical reason where you cannot sit in these positions, you may be allowed to stand or kneel. Ask for permission <br/>beforehand.<br><br></span></font><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Sensei/sempai/kohai<br><br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">The </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">sensei </span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">is the teacher or instructor. It loosely translates as, &#8220;the person who was there before the student.&#8221; </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">Sempai</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> is a <br/>senior student or anyone who is a higher rank than you. They are </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">kohai</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, or junior student, to the </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">sensei</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">. Children are to treat <br/>all adults as </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">sempai</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">; even if the child is a higher rank. This is not to imply the adult can disrespect the ranking child; in this <br/>case, mutual respect is warranted. When addressed by a senior student, the junior student should say, </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">osu</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, and listen <br/>attentively. It is disrespectful to look around, show &#8220;attitude,&#8221; or ignore what they say. They are there to help you; listen and <br/>learn.<br><br></span></font><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Responsibilities/ Duties<br><br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">It is your </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">dojo</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> regardless if it is in a gymnasium or a basketball court. When you enter the training area, you are to bow and <br/>say, </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">osu</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, loudly to let people know you are there. The same is true when you leave. If you are late, you will need to bow in <br/>formally, say </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">osu</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, and wait quietly to be invited into class.<br><br>Since we practice in facilities that have more than one use, we must remember we are guests in their space and should <br/>behave accordingly. We &nbsp;should leave the space better than we found it. We can usually get a broom to sweep the floor or at <br/>least we can pick up any larger pieces of trash we see. Locker rooms must be kept neat. Do not leave your clothes on the <br/>floor or on the benches. This is </span></font><b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">not</span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> your room and </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">sensei</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> is </span></font><b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">not </span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">your mother.<br><br>Your </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">gi</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, or uniform should always be clean. Ideally, you should have at least two so you can wear one while the other is <br/>washed. Try not to wear your uniform for more than two practices without washing; your fellow </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">karate-ka</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> will appreciate it. <br/>Your belt, or obi, is to be tied properly. A senior student will instruct you on tying the knot on your first day. Learn it! </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">Sensei</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> <br/>does not tie belts for you. Your belt should never touch the floor unless you are wearing it. Any belts seen on the floor will be <br/>confiscated and not returned until you show that you deserve to wear it again.<br>Your uniform should have an ISKF patch over the left breast and no other patches or decorations. If you have experience in <br/>another style, </span></font><b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">as a courtesy</span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, you may wear your old uniform and rank until your first test. Thereafter, you can only wear a <br/>plain white uniform and rank you were awarded at your test.<br><br>Women are to wear a white tee-shirt or sports bra under their uniform; many people wear compression shorts, supporters, <br/>etc. under their uniforms. This is allowed as long as it is not visible. &nbsp;<br><br>Fingernails and toenails need to be trimmed to avoid injuries to yourself and others. Jewelry, watches and rings cannot be <br/>worn during training. If you have a piercing that is permanent or not easily removed, you must wear athletic tape over it at <br/>every practice or event. No food, gum, smoking or alcohol is allowed in the </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">dojo</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">. Profanity is prohibited. Running and rough <br/>play is not allowed unless it is part of the training. </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">Sensei</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> is the </span></font><b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">only</span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> person that can make that distinction.<br><br>It is the responsibility of all current students to introduce themselves to the new students and to make them feel welcome. <br/>Offer to help them with their practice, answer their questions; in other words, treat them as you want to be treated. In this</span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> <br/>dojo</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, we are all one club, one family.<br><br>When moving around the floor, remember to pass behind other people when changing positions. If you have to move <br/>farther than two steps, you must run to your destination. If you are summoned by a senior student or the instructor, you say, <br/></span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">osu</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">, and run to them. When you are assigned to work with a senior student in practice, you run to them. &nbsp;<br><br>It is your duty to inform the </span></font><i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">sensei</span></font></i><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;"> if you are injured, ill, or not attending class for an extended period. Let your instructor know <br/>before class if you need to leave early. Try not to disrupt the class as you leave. A leave of absence needs to be discussed <br/>with the instructor. Speak to the instructor if you decide to stop training altogether. It is the polite way to leave and will enable <br/>you to return later on good terms.<br/></span></font></span>        </div>
-        <div id="e4" style="position:absolute;left:11;top:198;width:129;height:270;"><!--$navbar 
-name=navbar.nav
-assetID=%NavbarAsset:/navigation_bars/navbar.nav
-$--><!--$begin exclude$--><table border="0" cellspacing="0" cellpadding="0"><tr><td><a href="index.html"><img name="i5" src="sitebuilder/images/navbar-0-inactive-77129.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="news.html"><img name="i6" src="sitebuilder/images/navbar-1-inactive-77285.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="instructors.html" onMouseOver="document.images['i7'].src='sitebuilder/images/navbar-2-mouseOver-58579.png'" onMouseOut="document.images['i7'].src='sitebuilder/images/navbar-2-inactive-77348.png'"><img name="i7" src="sitebuilder/images/navbar-2-inactive-77348.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="classes.html" onMouseOver="document.images['i8'].src='sitebuilder/images/navbar-3-mouseOver-58610.png'" onMouseOut="document.images['i8'].src='sitebuilder/images/navbar-3-inactive-77410.png'"><img name="i8" src="sitebuilder/images/navbar-3-inactive-77410.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="DojoRules-Introduction.html" onMouseOver="document.images['i9'].src='sitebuilder/images/navbar-5-mouseOver-34128.png'" onMouseOut="document.images['i9'].src='sitebuilder/images/navbar-5-inactive-34097.png'"><img name="i9" src="sitebuilder/images/navbar-5-inactive-34097.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="events.html" onMouseOver="document.images['i10'].src='sitebuilder/images/navbar-6-mouseOver-76292.png'" onMouseOut="document.images['i10'].src='sitebuilder/images/navbar-6-inactive-76261.png'"><img name="i10" src="sitebuilder/images/navbar-6-inactive-76261.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="Photos.html" onMouseOver="document.images['i11'].src='sitebuilder/images/navbar-7-mouseOver-03618.png'" onMouseOut="document.images['i11'].src='sitebuilder/images/navbar-7-inactive-03586.png'"><img name="i11" src="sitebuilder/images/navbar-7-inactive-03586.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="links.html" onMouseOver="document.images['i12'].src='sitebuilder/images/navbar-8-mouseOver-60165.png'" onMouseOut="document.images['i12'].src='sitebuilder/images/navbar-8-inactive-60149.png'"><img name="i12" src="sitebuilder/images/navbar-8-inactive-60149.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="contactus.html" onMouseOver="document.images['i13'].src='sitebuilder/images/navbar-9-mouseOver-62733.png'" onMouseOut="document.images['i13'].src='sitebuilder/images/navbar-9-inactive-62714.png'"><img name="i13" src="sitebuilder/images/navbar-9-inactive-62714.png" border="0" width="129" height="30" alt=""/></a></td></tr></table><!--$end exclude$-->        </div>
-        <div id="e14" style="position:absolute;left:150;top:80;width:446;height:28;"><span class="text"><font color="#D4A84B" size="4"><span style="font-size:18px;line-height:22px;">Dominion Shotokan Karate Club, LLC<br/></span></font></span>        </div>
-        <div id="e15" style="position:absolute;left:1;top:0;width:125;height:124;"><img src="images/site_logo_-_125x125_-_transparent.gif" width="125" height="124" alt=""></div>        <div id="e16" style="position:absolute;left:0;top:1415;width:998;height:44;"><img src="images/generic_dusk_footer.gif" width="998" height="44" alt=""></div>        <div id="e17" style="position:absolute;left:343;top:1428;width:308;height:18;"><span class="text"><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Copyright &#169; Dominion Shotokan Karate Club, LLC 2010<br/></span></font></span>        </div>
-        <div id="e18" style="position:absolute;left:850;top:175;width:100;height:200;"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Dojo Rules <br/>Navigation<br><br></span></font></b><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">01 </span></font></a><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">I</span></font></a><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">ntroduction<br></span></font></a><a href="DojoRules-FAQs.html"><font size="2"><span style="font-size:12px;line-height:15px;">02 FAQs<br></span></font></a><a href="DojoRules-Etiquette.html"><font size="2"><span style="font-size:12px;line-height:15px;">03 Etiquette<br></span></font></a><a href="DojoRules-Protocols.html"><font size="2"><span style="font-size:12px;line-height:15px;">04 Protocols<br></span></font></a><a href="DojoRules-Ranks.html"><font size="2"><span style="font-size:12px;line-height:15px;">05 Ranks<br></span></font></a><a href="DojoRules-Events.html"><font size="2"><span style="font-size:12px;line-height:15px;">06 Events<br></span></font></a><a href="DojoRules-Terminology.html"><font size="2"><span style="font-size:12px;line-height:15px;">07 Terminology<br></span></font></a><a href="DojoRules-ShotokanKata.html"><font size="2"><span style="font-size:12px;line-height:15px;">08 Kata<br></span></font></a><a href="DojoRules-DojoKun.html"><font size="2"><span style="font-size:12px;line-height:15px;">09 Dojo Kun<br></span></font></a><a href="DojoRules-NijuKun.html"><font size="2"><span style="font-size:12px;line-height:15px;">10 Niju Kun<br/></span></font></a></span>        </div>
-<!--$begin exclude$-->
-      </div>
-    </div>
-<!--$end exclude$-->
-<!--$begin exclude$--><div style="position:absolute;left:50;top:50;background:white"><font color=black>This file is not intended to be viewed directly using a web browser.  To create a viewable file, use the <b>Preview in Browser</b> or <b>Publish to Yahoo! Web Hosting</b> commands from within Yahoo! SiteBuilder.</font></div><!--$end exclude$-->
-  </body>
-</html>
+<p>
+	<i>Karate begins and ends with courtesy&#8221;<br>Master Gichin
+		Funakoshi
+	</i>
+</p>
+<p>
+	Shotokan is a traditional Japanese martial art and, as such, the
+	guidelines of behavior and etiquette in the <span class="japaneseTerm">dojo</span>
+	are the same as if you were training in Japan. You are required to show
+	the proper respect to the <span class="japaneseTerm">shomen, sensei</span>
+	and the <span class="japaneseTerm">sempai</span> (senior students) at
+	all times. In addition, you must show respect to the training facility
+	by bowing when you enter and when you leave.
+</p>
+<div class="title">Bowing</div>
+<p>Stand straight with your hands at your sides, heels together and toes
+	at an angle of 45 degrees. Bend slowly forward until fingers touch the
+	knees and then stand up again. Do not slap your thighs or curl your
+	neck.</p>
+<p>
+	When performing a seated bow, begin in the same position as the
+	standing bow, and then put your left knee on the ground. Continue with
+	the right knee and sit on your heels with your back straight and
+	looking toward the front. When instructed to bow, or <span
+		class="japaneseTerm">rei</span>, place both hands on the floor in
+	front of you and bend at the hips until your head touches your hands.
+	Do not rise until the person you are bowing to rises. When told to
+	stand, raise your body vertically and place your right foot on the
+	ground. Stand and bring both feet to <span class="japaneseTerm">musubi
+		dachi</span>. Do not place your hands on the floor in order to get up
+	or to kneel. Do not be concerned about making a mistake; you will be
+	instructed in the proper procedure by another student on your first
+	day.
+</p>
+<div class="title">Standing</div>
+<p>It is impolite to stand with your arms crossed or hands on your hips.
+	Stand in a natural position, relaxed with your weight on both feet.
+	Hands can be in front, behind or to the sides of your body.</p>
+<div class="title">Sitting</div>
+<p>
+	There are only two ways to sit in the <span class="japaneseTerm">dojo</span>:
+	formally sitting on your heels in <span class="japaneseTerm">zazen</span>
+	or <span class="japaneseTerm">seiza</span> position and cross-legged.
+	If you have a medical reason where you cannot sit in these positions,
+	you may be allowed to stand or kneel. Ask for permission beforehand.
+</p>
+<div class="title">Sensei/sempai/kohai</div>
+<p>
+	The <span class="japaneseTerm">sensei</span>is the teacher or
+	instructor. It loosely translates as, &#8220;the person who was there
+	before the student.&#8221; <span class="japaneseTerm">Sempai</span> is
+	a senior student or anyone who is a higher rank than you. They are <span
+		class="japaneseTerm">kohai</span>, or junior student, to the <span
+		class="japaneseTerm">sensei</span>. Children are to treat all adults
+	as <span class="japaneseTerm">sempai</span>; even if the child is a
+	higher rank. This is not to imply the adult can disrespect the ranking
+	child; in this case, mutual respect is warranted. When addressed by a
+	senior student, the junior student should say, <span
+		class="japaneseTerm">osu</span>, and listen attentively. It is
+	disrespectful to look around, show &#8220;attitude,&#8221; or ignore
+	what they say. They are there to help you; listen and learn.
+</p>
+<div class="title">Responsibilities/ Duties</div>
+<p>
+	It is your <span class="japaneseTerm">dojo</span> regardless if it is
+	in a gymnasium or a basketball court. When you enter the training area,
+	you are to bow and say, <span class="japaneseTerm">osu</span>, loudly
+	to let people know you are there. The same is true when you leave. If
+	you are late, you will need to bow in formally, say <span
+		class="japaneseTerm">osu</span>, and wait quietly to be invited into
+	class.
+</p>
+<p>
+	Since we practice in facilities that have more than one use, we must
+	remember we are guests in their space and should behave accordingly. We
+	should leave the space better than we found it. We can usually get a
+	broom to sweep the floor or at least we can pick up any larger pieces
+	of trash we see. Locker rooms must be kept neat. Do not leave your
+	clothes on the floor or on the benches. This is <b>not</b> your room
+	and <span class="japaneseTerm">sensei</span> is <b>not</b> your mother.
+</p>
+<p>
+	Your <span class="japaneseTerm">gi</span>, or uniform should always be
+	clean. Ideally, you should have at least two so you can wear one while
+	the other is washed. Try not to wear your uniform for more than two
+	practices without washing; your fellow <span class="japaneseTerm">karate-ka</span>
+	will appreciate it. Your belt, or obi, is to be tied properly. A senior
+	student will instruct you on tying the knot on your first day. Learn
+	it! <span class="japaneseTerm">Sensei</span> does not tie belts for
+	you. Your belt should never touch the floor unless you are wearing it.
+	Any belts seen on the floor will be confiscated and not returned until
+	you show that you deserve to wear it again.
+</p>
+<p>
+	Your uniform should have an ISKF patch over the left breast and no
+	other patches or decorations. If you have experience in another style,
+	<i>as a courtesy</i>, you may wear your old uniform and rank until your
+	first test. Thereafter, you can only wear a plain white uniform and
+	rank you were awarded at your test.<br> <br>Women are to wear a white
+	tee-shirt or sports bra under their uniform; many people wear
+	compression shorts, supporters, etc. under their uniforms. This is
+	allowed as long as it is not visible.
+</p>
+<p>
+	Fingernails and toenails need to be trimmed to avoid injuries to
+	yourself and others. Jewelry, watches and rings cannot be worn during
+	training. If you have a piercing that is permanent or not easily
+	removed, you must wear athletic tape over it at every practice or
+	event. No food, gum, smoking or alcohol is allowed in the <span
+		class="japaneseTerm">dojo</span>. Profanity is prohibited. Running and
+	rough play is not allowed unless it is part of the training. <span
+		class="japaneseTerm">Sensei</span> is the <b>only</b> person that can
+	make that distinction.
+</p>
+<p>
+	It is the responsibility of all current students to introduce
+	themselves to the new students and to make them feel welcome. Offer to
+	help them with their practice, answer their questions; in other words,
+	treat them as you want to be treated. In this <span
+		class="japaneseTerm">dojo</span>, we are all one club, one family.<br>
+	<br>When moving around the floor, remember to pass behind other people
+	when changing positions. If you have to move farther than two steps,
+	you must run to your destination. If you are summoned by a senior
+	student or the instructor, you say <span class="japaneseTerm">osu</span>,
+	and run to them. When you are assigned to work with a senior student in
+	practice, you run to them.
+</p>
+<p>
+	It is your duty to inform the <span class="japaneseTerm">sensei</span>
+	if you are injured, ill, or not attending class for an extended period.
+	Let your instructor know before class if you need to leave early. Try
+	not to disrupt the class as you leave. A leave of absence needs to be
+	discussed with the instructor. Speak to the instructor if you decide to
+	stop training altogether. It is the polite way to leave and will enable
+	you to return later on good terms.
+</p>
