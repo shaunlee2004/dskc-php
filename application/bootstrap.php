@@ -124,8 +124,8 @@ Kohana::modules(array(
  */
 Route::set('default', '(<controller>(/<action>(/<id>)))')
 	->defaults(array(
-		'controller' => 'welcome',
-		'action'     => 'index',
+		'controller' => 'page',
+		'action'     => 'home',
 	));
 
 Cookie::$salt = 'shotokan';
