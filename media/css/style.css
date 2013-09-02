@@ -35,12 +35,14 @@ table.topAligned tr td {
 	padding: 5px;
 }
 
-/* needed due to bleed-through of menu.css->#cssmenu ul,li */
-ul.unorderedList li {
-	list-style-type: circle;
+dl dt {
 	padding: 5px;
 }
 
+ol li {
+	list-style: decimal;
+	padding: 5px;
+}
 
 #pagewrapper {
 	text-align: left;
