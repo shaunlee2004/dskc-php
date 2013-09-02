@@ -9,14 +9,31 @@ BODY {
 a:link {
 	color: #0000FF;
 }
-a:hover {
-	color: #00FF00;
-}
 
 a:visited {
 	color: #0000FF;
 }
 
+a:hover {
+	color: #FF0000;
+}
+
+table.bordered {
+	border: 1px solid gray;
+}
+
+table.bordered tr th {
+	border: 1px solid gray;
+}
+
+table.bordered tr td {
+	border: 1px solid gray;
+}
+
+table.topAligned tr td {
+	vertical-align: top;
+	padding: 5px;
+}
 
 #pagewrapper {
 	text-align: left;
@@ -39,7 +56,7 @@ a:visited {
       background: url('/dskc/media/img/generic_dusk_header-998x78.jpg') no-repeat,
       	url('/dskc/media/img/generic_dusk_search_bar_background_tile.gif') bottom, no-repeat;
 }      
- /*top:82;width:998;height:44;*/
+
  
 #header .logo {
 	position: absolute;
