@@ -93,6 +93,18 @@ a:visited {
 	 line-height: 17px;
 }
 
+#content .subtitle {
+	 font-family: Arial;
+	 font-size: 12px;
+	 font-weight: bold;
+	 color: #D4A84B;
+	 line-height: 15px;
+}
+
+#content .paddedImage {
+	 padding: 15px;
+}
+
 #sidebar {
 	position: relative;
     display: block;
@@ -112,7 +124,7 @@ a:visited {
 	line-height: 44px;
 }
 
-#clearfloat{
+.clearfloat{
 	clear:both;
 }
 
