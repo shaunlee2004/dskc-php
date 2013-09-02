@@ -1,11 +1,14 @@
 <div class="title">What is Shotokan Karate?</div>
-<div style="float: right; position: relative;">
-			<?php
-			echo HTML::image ( "/media/img/MasterOkazaki-MajorsSensei-232x286.jpg", array (
-					'width' => 232,
-					'height' => 286 
-			) )?>
-			</div>
+<div class="paddedImage" style="float: right; position: relative;">
+	<?php
+	echo HTML::image ( "/media/img/MasterOkazaki-MajorsSensei-232x286.jpg", array (
+			'width' => 232,
+			'height' => 286 
+	) )?>
+	<div class="subtitle">
+		Okazaki Shihan and Majors Sensei<br /> at Pohle Sensei's dojo Oct-2010
+	</div>
+</div>
 <p>Karate-Do or "Way of the Empty Hand," is a scientific and
 	philosophical method of unarmed self defense that developed over many
 	centuries and cultures in the far and middle east. Gichin Funakoshi,
