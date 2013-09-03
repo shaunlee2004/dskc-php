@@ -1,13 +1,13 @@
 <div id="pagewrapper">
-	<?php Kohana::load('/application/views/headerBuffer.php');?>
+	<?php include Kohana::find_file("views", "headerBuffer");?>
 	<?php
 	
 echo View::factory ( 'header' )->set ( 'headerTitle', $headerTitle )->set ( 'headerSubtitle', $headerSubtitle );
 	?>
 	
 	<div id="content">
-		<?php Kohana::load('/application/views/menu.php');?>
-		<?php Kohana::load('/application/views/logoBuffer.php');?>
+		<?php include Kohana::find_file("views", "menu");?>
+		<?php include Kohana::find_file("views", "logoBuffer");?>
 
 		<?php echo $mainContent ?>
 		
@@ -15,10 +15,5 @@ echo View::factory ( 'header' )->set ( 'headerTitle', $headerTitle )->set ( 'hea
 
 		<div class="clearfloat"></div>
 	</div>
-	<?php Kohana::load('/application/views/footer.php');?>
+	<?php include Kohana::find_file("views", "footer");?>
 </div>
-
-
-
-
-
