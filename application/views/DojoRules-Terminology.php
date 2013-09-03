@@ -1,55 +1,144 @@
-<!--$sitebuilder version="2.8.5" extra="Java(1.7.0_09)" md5="9ba10c38b5092712cc21f0598cefde1e"$-->
-<!--$templateKey Blank||1.0.0$-->
-<html>
-  <head>
-    <title>Events</title>
-    <meta name="generator" content="Yahoo! SiteBuilder/2.8.5/1.7.0_09">
-    <meta name="description" content="Dominion Shotokan Karate Club, LLC calendar of upcoming events">
-    <meta name="keywords" content="Shotokan, karate, classes">
-    <!--$page size 1005, 3000$-->
-    <!--$page margin 0, 0, 20, 0$-->
-    <!--$centered$-->
-    <!--$fontFamily Arial$-->
-    <!--$fontSize 14$-->
-    <style type="text/css"><!--
-      BODY {font-family:"Arial"; font-size:14;margin:0px;padding:0px;text-align:center;min-width:1005px;}
-      P {font-family:"Arial"; font-size:14;}
-      FORM {margin:0;padding:0;}
-      #centerwrapper {text-align:left;width:1005px;margin-left:auto;margin-right:auto;}
-    --></style>
-  </head>
-  <body bgcolor="#253447" text="#000000" link="#0000FF" vlink="#800080" topmargin="0" leftmargin="0">
+<table class="topAligned bordered" style="width: 80%;">
+	<tr>
+		<td>
+			<div class="title">Numbers</div> <span class="japaneseTerm"> Ichi:</span>
+			One<br> <span class="japaneseTerm">Ni:</span> Two<br> <span
+			class="japaneseTerm">San:</span> Three<br> <span class="japaneseTerm">Shi:</span>
+			Four<br> <span class="japaneseTerm">Go:</span> Five<br> <span
+			class="japaneseTerm">Rokkyu:</span> Six<br> <span
+			class="japaneseTerm">Shichi:</span> Seven<br> <span
+			class="japaneseTerm">Hachi:</span> Eight<br> <span
+			class="japaneseTerm">Ku:</span> Nine<br> <span class="japaneseTerm">Ju:</span>
+			Ten<br> <span class="japaneseTerm">Niju:</span> Twenty<br> <span
+			class="japaneseTerm">Sanju:</span> Thirty<br> <span
+			class="japaneseTerm">Yonju:</span> Forty<br> <span
+			class="japaneseTerm">Hyaku:</span> One hundred<br />
 
-<!--$begin exclude$-->
-    <div id="centerwrapper">
-      <div id="root" style="position:absolute;width:1005px;height:1551px;">
-<!--$end exclude$-->
-        <div id="e0" style="position:absolute;left:1;top:0;width:998;height:78;"><!--$img %ImageAssetImpl:/images/generic_dusk_header.jpg$--><img src="sitebuilder/images/generic_dusk_header-998x78.jpg" width="998" height="78" alt=""></div>        <div id="e1" style="position:absolute;left:1;top:78;width:998;height:44;"><img src="images/generic_dusk_search_bar_background_tile.gif" width="998" height="44" alt=""></div>        <div id="e2" style="position:absolute;left:150;top:25;width:432;height:36;"><span class="text"><font color="#D4A84B" size="6"><span style="font-size:30px;line-height:35px;">Dojo Rules - Terminology<br/></span></font></span>        </div>
-        <div id="e3" style="position:absolute;left:11;top:198;width:129;height:270;"><!--$navbar 
-name=navbar.nav
-assetID=%NavbarAsset:/navigation_bars/navbar.nav
-$--><!--$begin exclude$--><table border="0" cellspacing="0" cellpadding="0"><tr><td><a href="index.html"><img name="i4" src="sitebuilder/images/navbar-0-inactive-77129.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="news.html"><img name="i5" src="sitebuilder/images/navbar-1-inactive-77285.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="instructors.html" onMouseOver="document.images['i6'].src='sitebuilder/images/navbar-2-mouseOver-58579.png'" onMouseOut="document.images['i6'].src='sitebuilder/images/navbar-2-inactive-77348.png'"><img name="i6" src="sitebuilder/images/navbar-2-inactive-77348.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="classes.html" onMouseOver="document.images['i7'].src='sitebuilder/images/navbar-3-mouseOver-58610.png'" onMouseOut="document.images['i7'].src='sitebuilder/images/navbar-3-inactive-77410.png'"><img name="i7" src="sitebuilder/images/navbar-3-inactive-77410.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="DojoRules-Introduction.html" onMouseOver="document.images['i8'].src='sitebuilder/images/navbar-5-mouseOver-34128.png'" onMouseOut="document.images['i8'].src='sitebuilder/images/navbar-5-inactive-34097.png'"><img name="i8" src="sitebuilder/images/navbar-5-inactive-34097.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="events.html" onMouseOver="document.images['i9'].src='sitebuilder/images/navbar-6-mouseOver-76292.png'" onMouseOut="document.images['i9'].src='sitebuilder/images/navbar-6-inactive-76261.png'"><img name="i9" src="sitebuilder/images/navbar-6-inactive-76261.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="Photos.html" onMouseOver="document.images['i10'].src='sitebuilder/images/navbar-7-mouseOver-03618.png'" onMouseOut="document.images['i10'].src='sitebuilder/images/navbar-7-inactive-03586.png'"><img name="i10" src="sitebuilder/images/navbar-7-inactive-03586.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="links.html" onMouseOver="document.images['i11'].src='sitebuilder/images/navbar-8-mouseOver-60165.png'" onMouseOut="document.images['i11'].src='sitebuilder/images/navbar-8-inactive-60149.png'"><img name="i11" src="sitebuilder/images/navbar-8-inactive-60149.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="contactus.html" onMouseOver="document.images['i12'].src='sitebuilder/images/navbar-9-mouseOver-62733.png'" onMouseOut="document.images['i12'].src='sitebuilder/images/navbar-9-inactive-62714.png'"><img name="i12" src="sitebuilder/images/navbar-9-inactive-62714.png" border="0" width="129" height="30" alt=""/></a></td></tr></table><!--$end exclude$-->        </div>
-        <div id="e13" style="position:absolute;left:150;top:80;width:446;height:28;"><span class="text"><font color="#D4A84B" size="4"><span style="font-size:18px;line-height:22px;">Dominion Shotokan Karate Club, LLC<br/></span></font></span>        </div>
-        <div id="e14" style="position:absolute;left:1;top:0;width:125;height:124;"><img src="images/site_logo_-_125x125_-_transparent.gif" width="125" height="124" alt=""></div>        <div id="e15" style="position:absolute;left:7;top:1487;width:998;height:44;"><img src="images/generic_dusk_footer.gif" width="998" height="44" alt=""></div>        <div id="e16" style="position:absolute;left:345;top:1500;width:308;height:18;"><span class="text"><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Copyright &#169; Dominion Shotokan Karate Club, LLC 2010<br/></span></font></span>        </div>
-        <div id="e17" style="position:absolute;left:158;top:175;width:675;height:583;"><!--$table$--><!-- IE tablecell height workaround --><!--$begin exclude$--><table border="0" cellspacing="0" cellpadding="0"><tr><td><!--$end exclude$--><table style="table-layout:fixed;border:2px outset #DCDCDC" width=675 height=583 border=2 cellspacing=2 cellpadding=0><col width="222"><col width="220"><col width="221"><tr>
-<td style="border:1px inset #DCDCDC" width="220" height="240" valign="top"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Numbers<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ichi: One<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ni: Two<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San: Three<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shi: Four<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go: Five<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rokkyu: Six<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shichi: Seven<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hachi: Eight<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ku: Nine<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ju: Ten<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Niju: Twenty<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sanju: Thirty<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yonju: Forty<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyaku: One hundred<br/></span></font></span></td>
-<td style="border:1px inset #DCDCDC" width="218" height="240" valign="top"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Colors<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aka: Red<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shiro: White<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aoi: Blue<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Midori: Green<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ki: Yellow<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuro: Black<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Murasaki: Purple<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cha: Brown<br/></span></font></span></td>
-<td style="border:1px inset #DCDCDC" width="219" height="240" valign="top"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Anatomy<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Te: Hand<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ashi: Foot<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atama: Head<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kubi: Neck<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mune: Chest<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senaka: Back<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seiken: Fore fist<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ude: Forearm<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hana: Nose<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuchi: Mouth<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiji: Elbow<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiza: Knee<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Koshi: Ball of Foot<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kakato: Heel<br/></span></font></span></td>
+		</td>
+		<td>
+			<div class="title">Colors</div> <span class="japaneseTerm">Aka:</span>
+			Red<br> <span class="japaneseTerm">Shiro:</span> White<br> <span
+			class="japaneseTerm">Aoi:</span> Blue<br> <span class="japaneseTerm">Midori:</span>
+			Green<br> <span class="japaneseTerm">Ki:</span> Yellow<br> <span
+			class="japaneseTerm">Kuro:</span> Black<br> <span
+			class="japaneseTerm">Murasaki:</span> Purple<br> <span
+			class="japaneseTerm">Cha:</span> Brown<br />
+		</td>
+		<td>
+			<div class="title">Anatomy</div> <span class="japaneseTerm">Te:</span>
+			Hand<br> <span class="japaneseTerm">Ashi:</span> Foot<br> <span
+			class="japaneseTerm">Atama:</span> Head<br> <span
+			class="japaneseTerm">Kubi:</span> Neck<br> <span class="japaneseTerm">Mune:</span>
+			Chest<br> <span class="japaneseTerm">Senaka:</span> Back<br> <span
+			class="japaneseTerm">Seiken:</span> Fore fist<br> <span
+			class="japaneseTerm">Ude:</span> Forearm<br> <span
+			class="japaneseTerm">Hana:</span> Nose<br> <span class="japaneseTerm">Kuchi:</span>
+			Mouth<br> <span class="japaneseTerm">Hiji:</span> Elbow<br> <span
+			class="japaneseTerm">Hiza:</span> Knee<br> <span class="japaneseTerm">Koshi:</span>
+			Ball of Foot<br> <span class="japaneseTerm">Kakato:</span> Heel<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="title">Directions</div> <span class="japaneseTerm">Jodan:</span>
+			Upper<br> <span class="japaneseTerm">Chudan:</span> Middle<br> <span
+			class="japaneseTerm">Gedan:</span> Lower<br> <span
+			class="japaneseTerm">Migi:</span> Right<br> <span
+			class="japaneseTerm">Hidari:</span> Left<br> <span
+			class="japaneseTerm">Mae:</span> front<br> <span class="japaneseTerm">Oshiro:</span>
+			Back<br> <span class="japaneseTerm">Yoko:</span> Side<br> <span
+			class="japaneseTerm">Uchi:</span> Inside<br> <span
+			class="japaneseTerm">Soto:</span> Outside<br> <span
+			class="japaneseTerm">Otoshi:</span> Downward<br> <span
+			class="japaneseTerm">Age:</span> Rising<br> <span
+			class="japaneseTerm">Mawashi:</span> Round<br> <span
+			class="japaneseTerm">Gyaku:</span> Reverse<br />
+		</td>
+		<td><div class="title">Stances</div> <span class="japaneseTerm">Kamae:</span>
+			Ready<br> <span class="japaneseTerm">Musubi:</span> Open Toe<br> <span
+			class="japaneseTerm">Shizen Tai:</span> Natural<br> <span
+			class="japaneseTerm">Heisoku:</span> Parallel Feet<br> <span
+			class="japaneseTerm">Zenkutsu:</span> Front<br> <span
+			class="japaneseTerm">Kokutsu:</span> Back<br> <span
+			class="japaneseTerm">Kiba:</span> Horse Riding<br> <span
+			class="japaneseTerm">Neko Ashi:</span> Cat<br> <span
+			class="japaneseTerm">Fudo:</span> Fighting<br> <span
+			class="japaneseTerm">Renoji:</span> &#8220;L&#8221;<br> <span
+			class="japaneseTerm">Hangetsu:</span> Hourglass<br> <span
+			class="japaneseTerm">Kosa:</span> Cross Leg<br> <span
+			class="japaneseTerm">Hachiji:</span> Open Leg <br /></td>
+		<td><div class="title">General Terms</div> <span class="japaneseTerm">Karate:</span>
+			Empty Hand<br> <span class="japaneseTerm">Osu:</span> Do My Best<br>
+			<span class="japaneseTerm">Do:</span> Way<br> <span
+			class="japaneseTerm">Dojo:</span> Training Area<br> <span
+			class="japaneseTerm">Sensei:</span> Teacher<br> <span
+			class="japaneseTerm">Sempai:</span> Senior<br> <span
+			class="japaneseTerm">Kohai:</span> Junior<br> <span
+			class="japaneseTerm">Kime:</span> Focus<br> <span
+			class="japaneseTerm">Gi:</span> Uniform<br> <span
+			class="japaneseTerm">Obi:</span> Belt<br> <span class="japaneseTerm">Dachi:</span>
+			Stance<br> <span class="japaneseTerm">Waza:</span> Technique<br> <span
+			class="japaneseTerm">Tzuki:</span> Punch<br> <span
+			class="japaneseTerm">Geri:</span> Kick<br> <span class="japaneseTerm">Uchi:</span>
+			Strike<br> <span class="japaneseTerm">Uke:</span> Block<br> <span
+			class="japaneseTerm">Dozo:</span> Please<br> <span
+			class="japaneseTerm">Domo Arigato:</span> Thank You<br> <span
+			class="japaneseTerm">Dan:</span> Black Belt<br> <span
+			class="japaneseTerm">Kyu:</span> Color Belt<br />
+	
+	</tr>
+</table>
+<table class="topAligned bordered" style="width: 100%;">
+	<tr>
+		<td>
+			<div class="title">Blocks</div> <span class="japaneseTerm">Age Uke:</span>
+			Rising Block<br> <span class="japaneseTerm">Gedan Barai:</span> Down
+			Block<br> <span class="japaneseTerm">Soto Udo Uke:</span> Outside In
+			Block<br> <span class="japaneseTerm">Uchi Ude Uke:</span> Inside Out
+			Block<br> <span class="japaneseTerm">Shuto Uke:</span> Knife Hand
+			block<br> <span class="japaneseTerm">Morote Uke:</span> Double Hand
+			Forearm Block<br> <span class="japaneseTerm">Juji Uke:</span>
+			&#8220;X&#8221; Block<br> <span class="japaneseTerm">Nagashi Uke:</span>
+			Sweeping Hand Block<br> <span class="japaneseTerm">Kaki Waki Uke:</span>
+			Wedge Block<br> <span class="japaneseTerm">Osae Uke:</span> Pressing
+			Block<br />
+		</td>
+		<td>
+			<div class="title">Punches</div> <span class="japaneseTerm">Oi Tzuki:</span>
+			Lunge Punch<br> <span class="japaneseTerm">Gyaku Tzuki:</span>
+			Reverse Punch<br> <span class="japaneseTerm">Kizami Tzuki:</span> Jab
+			Punch<br> <span class="japaneseTerm">Age Tzuki:</span> Rising Punch<br>
+			<span class="japaneseTerm">Tate Tzuki:</span> Vertical Punch<br> <span
+			class="japaneseTerm">Choku Tzuki:</span> Straight Punch<br> <span
+			class="japaneseTerm">Kagi Tzuki:</span> Hook Punch<br> <span
+			class="japaneseTerm">Yama Tzuki:</span> &#8220;U&#8221; Punch (Wide)<br>
+			<span class="japaneseTerm">Awase Tzuki:</span> &#8220;U&#8221; Punch<br>
+			<span class="japaneseTerm">Ura Tzuki:</span> Upper-Cut Punch<br> <span
+			class="japaneseTerm">Ippon Ken:</span> Knuckle Punch<br> <span
+			class="japaneseTerm">Nakadaka Ippon Ken:</span> Middle Knuckle Punch.
+		</td>
 </tr>
 <tr>
-<td style="border:1px inset #DCDCDC" width="220" height="329" valign="top"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Directions<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jodan: Upper<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chudan: Middle<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gedan: Lower<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Migi: Right<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hidari: Left<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mae: front<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oshiro: Back<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yoko: Side<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uchi: Inside<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soto: Outside<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Otoshi: Downward<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age: Rising<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mawashi: Round<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gyaku: Reverse<br/></span></font></span></td>
-<td style="border:1px inset #DCDCDC" width="218" height="329" valign="top"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Stances<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kamae: Ready<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Musubi: Open Toe<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shizen Tai: Natural<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heisoku: Parallel Feet<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zenkutsu: Front<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kokutsu: Back<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiba: Horse Riding<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neko Ashi: Cat<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fudo: Fighting<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Renoji: &#8220;L&#8221;<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hangetsu: Hourglass<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kosa: Cross Leg<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hachiji: Open Leg &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></span></font></span></td>
-<td style="border:1px inset #DCDCDC" width="219" height="329" valign="top"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">General Terms<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karate: Empty Hand<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Osu: Do My Best<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do: Way<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dojo: Training Area<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sensei: Teacher<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sempai: Senior<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohai: Junior<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kime: Focus<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gi: Uniform<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obi: Belt<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dachi: Stance<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waza: Technique<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tzuki: Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geri: Kick<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uchi: Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uke: Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dozo: Please<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Domo Arigato: Thank You<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dan: Black Belt<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kyu: Color Belt<br/></span></font></span></td>
-</tr>
+		<td>
+			<div class="title">Kicks</div> <span class="japaneseTerm">Mae Geri:</span>
+			Front Kick<br> <span class="japaneseTerm">Yoko Geri Kekomi:</span>
+			Side Thrust Kick<br> <span class="japaneseTerm">Yoko Geri Keage:</span>
+			Side snap Kick<br> <span class="japaneseTerm">Mawashi Geri:</span>
+			Roundhouse Kick<br> <span class="japaneseTerm">Oshiro Kekomi Geri:</span>
+			Back Kick<br> <span class="japaneseTerm">Fumikomi Geri:</span>
+			Stamping Kick<br> <span class="japaneseTerm">Tobi Geri:</span>
+			Jumping Kick<br> <span class="japaneseTerm">Mikazuki Geri:</span>
+			Crescent Kick
+
+		</td>
+		<td><div class="title">Strikes</div> <span class="japaneseTerm">Shuto
+				Uchi:</span> Knife Hand Strike<br> <span class="japaneseTerm">Haito
+				Uchi:</span> Open Hand Strike<br> <span class="japaneseTerm">Tettsui:</span>
+			Hammer Fist Strike<br> <span class="japaneseTerm">Uraken:</span>
+			Back-fist Strike<br> <span class="japaneseTerm">Teisho:</span> Palm
+			Heel Strike<br> <span class="japaneseTerm">Empi Uchi:</span> Elbow
+			Strike<br> <span class="japaneseTerm">Kumade:</span> Bear Claw Strike<br>
+			<span class="japaneseTerm">Nukite:</span> Spear Hand Strike<br> <span
+			class="japaneseTerm">Haisho:</span> Back Hand Strike</td>
+	</tr>
 </table>
-<!-- IE tablecell height workaround --><!--$begin exclude$--></td></tr></table><!--$end exclude$-->        </div>
-        <div id="e18" style="position:absolute;left:155;top:772;width:276;height:390;"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Blocks<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age Uke: Rising Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gedan Barai: Down Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soto Udo Uke: Outside In Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uchi Ude Uke: Inside Out Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shuto Uke: Knife Hand block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Morote Uke: Double Hand Forearm Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juji Uke: &#8220;X&#8221; Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nagashi Uke: Sweeping Hand Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaki Waki Uke: Wedge Block<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Osae Uke: Pressing Block<br><br></span></font><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Punches<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oi Tzuki: Lunge Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gyaku Tzuki: Reverse Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kizami Tzuki: Jab Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age Tzuki: Rising Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tate Tzuki: Vertical Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choku Tzuki: Straight Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kagi Tzuki: Hook Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yama Tzuki: &#8220;U&#8221; Punch (Wide)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awase Tzuki: &#8220;U&#8221; Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ura Tzuki: Upper-Cut Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ippon Ken: Knuckle Punch<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakadaka Ippon Ken: Middle Knuckle Punch.<br/></span></font></span>        </div>
-        <div id="e19" style="position:absolute;left:850;top:175;width:100;height:200;"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Dojo Rules <br/>Navigation<br><br></span></font></b><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">01 </span></font></a><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">I</span></font></a><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">ntroduction<br></span></font></a><a href="DojoRules-FAQs.html"><font size="2"><span style="font-size:12px;line-height:15px;">02 FAQs<br></span></font></a><a href="DojoRules-Etiquette.html"><font size="2"><span style="font-size:12px;line-height:15px;">03 Etiquette<br></span></font></a><a href="DojoRules-Protocols.html"><font size="2"><span style="font-size:12px;line-height:15px;">04 Protocols<br></span></font></a><a href="DojoRules-Ranks.html"><font size="2"><span style="font-size:12px;line-height:15px;">05 Ranks<br></span></font></a><a href="DojoRules-Events.html"><font size="2"><span style="font-size:12px;line-height:15px;">06 Events<br></span></font></a><a href="DojoRules-Terminology.html"><font size="2"><span style="font-size:12px;line-height:15px;">07 Terminology<br></span></font></a><a href="DojoRules-ShotokanKata.html"><font size="2"><span style="font-size:12px;line-height:15px;">08 Kata<br></span></font></a><a href="DojoRules-DojoKun.html"><font size="2"><span style="font-size:12px;line-height:15px;">09 Dojo Kun<br></span></font></a><a href="DojoRules-NijuKun.html"><font size="2"><span style="font-size:12px;line-height:15px;">10 Niju Kun<br/></span></font></a></span>        </div>
-        <div id="e20" style="position:absolute;left:468;top:772;width:250;height:387;"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Kicks<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mae Geri: Front Kick<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yoko Geri Kekomi: Side Thrust Kick<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yoko Geri Keage: Side snap Kick<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mawashi Geri: Roundhouse Kick<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oshiro Kekomi Geri: Back Kick<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fumikomi Geri: Stamping Kick<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tobi Geri: Jumping Kick<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mikazuki Geri: Crescent Kick<br><br><br><br></span></font><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Strikes<br></span></font></b><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shuto Uchi: Knife Hand Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Haito Uchi: Open Hand Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tettsui: Hammer Fist Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uraken: Back-fist Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teisho: Palm Heel Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Empi Uchi: Elbow Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumade: Bear Claw Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nukite: Spear Hand Strike<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Haisho: Back Hand Strike<br/></span></font></span>        </div>
-<!--$begin exclude$-->
-      </div>
-    </div>
-<!--$end exclude$-->
-<!--$begin exclude$--><div style="position:absolute;left:50;top:50;background:white"><font color=black>This file is not intended to be viewed directly using a web browser.  To create a viewable file, use the <b>Preview in Browser</b> or <b>Publish to Yahoo! Web Hosting</b> commands from within Yahoo! SiteBuilder.</font></div><!--$end exclude$-->
-  </body>
-</html>
