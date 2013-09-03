@@ -1,5 +1,9 @@
-
 <div style="float: left">
+	<div style="float: right;">
+		<?php echo HTML::image("/media/img/Niju_Kun.gif")?>
+		<div class="subtitle" style="text-align: center;" >Niju Kun</div>
+	</div>
+
 	<ol>
 		<li><span class="japaneseTerm">Dojo nomino karate to omou na.</span><br />Karate
 			is not only for dojo training.</li>
