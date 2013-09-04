@@ -42,6 +42,7 @@ dl dt {
 ol li {
 	list-style: decimal;
 	padding: 5px;
+	list-style-position:inside;
 }
 
 #pagewrapper {
