@@ -108,4 +108,3 @@
 		Everyone then bows again, standing, and leaves quickly and quietly.</li>
 </ol>
 
-</ol>
