@@ -33,5 +33,5 @@
 <p>
 	<i> &#8220;The ultimate aim of karate-do lies not in victory or defeat,
 		but in the perfection of character of the person who studies
-		it.&#8221;</i><br>Master Gichin Funakoshi </span></font></i>
+		it.&#8221;<br>- Master Gichin Funakoshi -</i>
 </p>
