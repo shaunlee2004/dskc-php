@@ -5,7 +5,7 @@
 			'width' => 232,
 			'height' => 286 
 	) )?>
-	<div class="subtitle">
+	<div class="caption">
 		Okazaki Shihan and Majors Sensei<br /> at Pohle Sensei's dojo Oct-2010
 	</div>
 </div>

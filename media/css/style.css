@@ -132,6 +132,15 @@ ol li {
 	 padding: 15px;
 }
 
+#content .paddedImage .caption {
+	 font-family: Arial;
+	 font-size: 12px;
+	 font-weight: bold;
+	 color: #D4A84B;
+	 line-height: 15px;
+	 text-align: center;
+}
+
 #sidebar {
 	position: relative;
     display: block;
