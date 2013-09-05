@@ -118,14 +118,43 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['mainContent'] = View::factory ('events');
 				$this->fill_template();
 			}
-			public function action_photos() {
-
+			public function action_photosTuluceanu2013() {
+			
 				$this->template->title = __ ( 'Photos from DSKC Events' );
 				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
-				$this->pageData['mainContent'] = View::factory ('photos');
+				$this->pageData['mainContent'] = View::factory ('photos-tuluceanu2013');
+				$this->fill_template();
+			}				
+			public function action_photosRastegarFoltz2012() {
+				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
+				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
+				$this->pageData['mainContent'] = View::factory ('photos-rastegarFoltz2012');
 				$this->fill_template();
 			}
+			public function action_photosHoffman2011() {
+				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
+				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
+				$this->pageData['mainContent'] = View::factory ('photos-hoffman2011');
+				$this->fill_template();
+			}
+			public function action_photosPohle2010() {
+				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
+				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
+				$this->pageData['mainContent'] = View::factory ('photos-pohle2010');
+				$this->fill_template();
+			}
+			public function action_photosMaeshima2009() {
+				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
+				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
+				$this->pageData['mainContent'] = View::factory ('photos-maeshima2009');
+				$this->fill_template();
+			}
+				
 			public function action_resources() {
 
 				$this->template->title = __ ( 'Resources' );
