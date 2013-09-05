@@ -1,42 +1,30 @@
-<!--$sitebuilder version="2.8.5" extra="Java(1.7.0_09)" md5="bc3c0827d0e5a15916f41179984fc430"$-->
-<!--$templateKey Generic|Dusk - Indigo|1.0$-->
-<html>
-  <head>
-    <title>Events</title>
-    <meta name="generator" content="Yahoo! SiteBuilder/2.8.5/1.7.0_09">
-    <meta name="description" content="Dominion Shotokan Karate Club, LLC calendar of upcoming events">
-    <meta name="keywords" content="Shotokan, karate, classes">
-    <!--$page size 1000, 741$-->
-    <!--$page margin 0, 1, 20, 1$-->
-    <!--$centered$-->
-    <!--$fontFamily Arial$-->
-    <!--$fontSize 12$-->
-    <style type="text/css"><!--
-      BODY {font-family:"Arial"; font-size:12;margin:0px;padding:0px;text-align:center;min-width:1000px;}
-      P {font-family:"Arial"; font-size:12;}
-      FORM {margin:0;padding:0;}
-      #centerwrapper {text-align:left;width:1000px;margin-left:auto;margin-right:auto;}
-    --></style>
-  </head>
-  <body bgcolor="#253447" text="#979BA0" link="#0000FF" vlink="#800080" topmargin="0" leftmargin="0">
+<div style="float: left; padding: 5px;">
+	<p>
+		East Coast Fall Camp<br /> 26th Anniversary<br /> Sept 13-15th, 2013<br />
+				<?php echo HTML::anchor("https://maps.google.com/maps?daddr=249+Camp+Green+Lane+Rd,+Green+Lane,+PA", "Camp Green Lane, PA")?><br />
+		<?php echo HTML::anchor("http://www.iskf.com/images/2013%20EC%20FC%20BROCHUA.pdf", "Registration Packet")?>
+				</p>
+	<p>
+<?php echo HTML::anchor("http://www.iskf.com/iskf%20headquarters.html", "Other ISKF Events")?>
+</p>
 
-<!--$begin exclude$-->
-    <div id="centerwrapper">
-      <div id="root" style="position:absolute;width:1000px;height:638px;">
-<!--$end exclude$-->
-        <div id="e0" style="position:absolute;left:1;top:0;width:998;height:78;"><!--$img %ImageAssetImpl:/images/generic_dusk_header.jpg$--><img src="sitebuilder/images/generic_dusk_header-998x78.jpg" width="998" height="78" alt=""></div>        <div id="e1" style="position:absolute;left:1;top:78;width:998;height:44;"><img src="images/generic_dusk_search_bar_background_tile.gif" width="998" height="44" alt=""></div>        <div id="e2" style="position:absolute;left:1;top:574;width:996;height:44;"><img src="images/generic_dusk_footer.gif" width="996" height="44" alt=""></div>        <div id="e3" style="position:absolute;left:150;top:25;width:143;height:36;"><span class="text"><font color="#D4A84B" size="6"><span style="font-size:30px;line-height:35px;">Events<br/></span></font></span>        </div>
-        <div id="e4" style="position:absolute;left:158;top:141;width:189;height:347;"><span class="text"><b><span style="font-size:12px;line-height:15px;">East Coast Regional Tournament<br></span></b><span style="font-size:12px;line-height:15px;">50th Anniversary<br>April 6-7th, 2013<br>Drexel University<br>Daskalakis Athletic Center (DAC)<br></span><a href="http://maps.google.com/maps?q=33rd+%26amp%3B+Market+St+Philadelphia,+PA&hl=en&client=firefox-a&hnear=Market+St+%26+S+33rd+St,+Philadelphia,+Pennsylvania+19104&gl=us&t=m&z=16" target="_blank"><span style="font-size:12px;line-height:15px;">33rd &amp; Market Sts<br></span></a><span style="font-size:12px;line-height:15px;">Philadelphia, PA<br></span><a href="http://iskf.com/images/2013%20East%20Coast%20Booklet%20Final%20(1).pdf" target="_blank"><span style="font-size:12px;line-height:15px;">Registration Packet<br><br></span></a><b><span style="font-size:12px;line-height:15px;">Kyu Exam<br></span></b><span style="font-size:12px;line-height:15px;">April 20, 2013 - 10 AM<br>Bailey's Community Center<br><br></span><b><span style="font-size:12px;line-height:15px;">Master Camp<br></span></b><span style="font-size:12px;line-height:15px;">June 7-14th, 2013<br></span><a href="http://maps.google.com/maps?q=Camp+Green+Lane,+Pennsylvania&ll=40.326851,-75.431099&spn=0.04371,0.104628&oe=utf-8&client=firefox-a&fb=1&gl=us&hq=Camp&hnear=0x89c69da32bc4b62d:0x66e4d75e8d8b11db,Green+Lane,+PA&cid=0,0,16633635593527880496&t=m&z=14&iwloc=A" target="_blank"><span style="font-size:12px;line-height:15px;">Camp Green Lane, Pennsylvania<br><br></span></a><a href="http://www.iskf.com/iskf%20headquarters.html"><b><font size="2"><span style="font-size:14px;line-height:17px;">Other ISKF Events<br/></span></font></b></a></span>        </div>
-        <div id="e5" style="position:absolute;left:11;top:198;width:129;height:270;"><!--$navbar 
-name=navbar.nav
-assetID=%NavbarAsset:/navigation_bars/navbar.nav
-$--><!--$begin exclude$--><table border="0" cellspacing="0" cellpadding="0"><tr><td><a href="index.html"><img name="i6" src="sitebuilder/images/navbar-0-inactive-77129.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="news.html"><img name="i7" src="sitebuilder/images/navbar-1-inactive-77285.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="instructors.html" onMouseOver="document.images['i8'].src='sitebuilder/images/navbar-2-mouseOver-58579.png'" onMouseOut="document.images['i8'].src='sitebuilder/images/navbar-2-inactive-77348.png'"><img name="i8" src="sitebuilder/images/navbar-2-inactive-77348.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="classes.html" onMouseOver="document.images['i9'].src='sitebuilder/images/navbar-3-mouseOver-58610.png'" onMouseOut="document.images['i9'].src='sitebuilder/images/navbar-3-inactive-77410.png'"><img name="i9" src="sitebuilder/images/navbar-3-inactive-77410.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="DojoRules-Introduction.html" onMouseOver="document.images['i10'].src='sitebuilder/images/navbar-5-mouseOver-34128.png'" onMouseOut="document.images['i10'].src='sitebuilder/images/navbar-5-inactive-34097.png'"><img name="i10" src="sitebuilder/images/navbar-5-inactive-34097.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="events.html" onMouseOver="document.images['i11'].src='sitebuilder/images/navbar-6-mouseOver-76292.png'" onMouseOut="document.images['i11'].src='sitebuilder/images/navbar-6-active-76276.png'"><img name="i11" src="sitebuilder/images/navbar-6-active-76276.png" width="129" height="30" border="0" alt=""/></a></td></tr><tr><td><a href="Photos.html" onMouseOver="document.images['i12'].src='sitebuilder/images/navbar-7-mouseOver-03618.png'" onMouseOut="document.images['i12'].src='sitebuilder/images/navbar-7-inactive-03586.png'"><img name="i12" src="sitebuilder/images/navbar-7-inactive-03586.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="links.html" onMouseOver="document.images['i13'].src='sitebuilder/images/navbar-8-mouseOver-60165.png'" onMouseOut="document.images['i13'].src='sitebuilder/images/navbar-8-inactive-60149.png'"><img name="i13" src="sitebuilder/images/navbar-8-inactive-60149.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="contactus.html" onMouseOver="document.images['i14'].src='sitebuilder/images/navbar-9-mouseOver-62733.png'" onMouseOut="document.images['i14'].src='sitebuilder/images/navbar-9-inactive-62714.png'"><img name="i14" src="sitebuilder/images/navbar-9-inactive-62714.png" border="0" width="129" height="30" alt=""/></a></td></tr></table><!--$end exclude$-->        </div>
-        <div id="e15" style="position:absolute;left:150;top:80;width:446;height:28;"><span class="text"><font color="#D4A84B" size="4"><span style="font-size:18px;line-height:22px;">Dominion Shotokan Karate Club, LLC<br/></span></font></span>        </div>
-        <div id="e16" style="position:absolute;left:1;top:0;width:125;height:124;"><img src="images/site_logo_-_125x125_-_transparent.gif" width="125" height="124" alt=""></div>        <div id="e17" style="position:absolute;left:345;top:587;width:308;height:18;"><span class="text"><font color="#D4A84B"><span style="font-size:12px;line-height:15px;">Copyright &#169; Dominion Shotokan Karate Club, LLC 2010<br/></span></font></span>        </div>
-        <div id="e18" style="position:absolute;left:364;top:136;width:621;height:315;"><span class="text"><b><span style="font-size:12px;line-height:15px;">Tournaments/Camps/Clinics<br></span></b><span style="font-size:12px;line-height:15px;">the country. Regional winners and selected invitees are then eligible for the ISKF Nationals which are hosted by a <br/>participants nominated by the tournament judges. Each tournament has events for children, collegiate, senior <br/>and advanced ranks. Tournaments at Master and Fall camps have events for adults of all ranks. It is strongly<br>Master Camp and Fall Camp are held in June and September, respectively. Master Camp welcomes Shotokan <br/>participants from around the world to train for up to a week with some of the best instructors from around the <br/>world. Fall Camp is held during a weekend and features training by the most elite regional instructors available.<br><br>Many times during the year, senior instructors are invited to give special trainings at local clubs. We offer special <br/>training events prior to our </span><i><span style="font-size:12px;line-height:15px;">kyu </span></i><span style="font-size:12px;line-height:15px;">exams and put this information on our website so that neighboring clubs can <br/>attend as well. There is usually a small fee required to compensate the instructor and their expenses. Again, you <br/>are encouraged to attend.<br/></span></span>        </div>
-<!--$begin exclude$-->
-      </div>
-    </div>
-<!--$end exclude$-->
-<!--$begin exclude$--><div style="position:absolute;left:50;top:50;background:white"><font color=black>This file is not intended to be viewed directly using a web browser.  To create a viewable file, use the <b>Preview in Browser</b> or <b>Publish to Yahoo! Web Hosting</b> commands from within Yahoo! SiteBuilder.</font></div><!--$end exclude$-->
-  </body>
-</html>
+</div>
+<div >
+	<div class="title">Tournaments/Camps/Clinics</div>
+	<p>the country. Regional winners and selected invitees are then
+		eligible for the ISKF Nationals which are hosted by a participants
+		nominated by the tournament judges. Each tournament has events for
+		children, collegiate, senior and advanced ranks. Tournaments at Master
+		and Fall camps have events for adults of all ranks. It is strongly
+		Master Camp and Fall Camp are held in June and September,
+		respectively. Master Camp welcomes Shotokan participants from around
+		the world to train for up to a week with some of the best instructors
+		from around the world. Fall Camp is held during a weekend and features
+		training by the most elite regional instructors available.</p>
+	<p>Many times during the year, senior instructors are invited to give
+		special trainings at local clubs. We offer special training events
+		prior to our exams and put this information on our website so that
+		neighboring clubs can attend as well. There is usually a small fee
+		required to compensate the instructor and their expenses. Again, you
+		are encouraged to attend.</p>
+</div>
