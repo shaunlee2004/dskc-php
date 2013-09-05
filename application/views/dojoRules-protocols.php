@@ -1,3 +1,4 @@
+<div class="title">Opening Ceremony</div>
 <p>
 	When the class begins, students will line up facing <span
 		class="japaneseTerm">shomen</span> (the front of the <span
@@ -7,7 +8,6 @@
 	position in front of the class and sit in <span class="japaneseTerm">zazen</span>
 	(formal seated position). The ranking student will announce:
 </p>
-<br/><!-- hack to line up opening ceremony OL -->
 <ol>
 	<li><span class="japaneseTerm">Seiza!</span> This is the command to sit
 		in the formal seated position. Students will kneel, in order of rank,
@@ -30,6 +30,8 @@
 		must wait for the person to your left to stand before you stand. Once
 		everyone is standing, you may move to your position on the floor.</li>
 </ol>
+<div class="title">Warm Up</div>
+
 <p>
 	Once everyone is in position, a <span class="japaneseTerm">sempai</span>
 	will lead the class in warm up. Proper respect and attitude will be
@@ -43,6 +45,8 @@
 	difficult, <span class="japaneseTerm">sensei</span> may allow a break.
 	If so, be quick and return promptly.
 </p>
+<div class="title">Training</div>
+
 <p>
 	Your karate training will consist mainly of three parts, <span
 		class="japaneseTerm">kihon, kata</span> and <span class="japaneseTerm">kumite</span>.
@@ -67,6 +71,8 @@
 		specifically to each level of training and gets progressively more
 		intense as the student increases in rank.</li>
 </ol>
+<div class="title">Cool Down</div>
+
 <p>
 	At the end of class, we often have cool-down stretches, partner
 	stretches or, in the case of the children&#8217;s classes,
@@ -79,6 +85,7 @@
 	also do suicide sprints, jogging, and other cardiovascular exercises in
 	the <span class="japaneseTerm">dojo</span>.
 </p>
+<div class="title">Closing Ceremony</div>
 
 <p>
 	The command to line up signals the end of the class. Students are to

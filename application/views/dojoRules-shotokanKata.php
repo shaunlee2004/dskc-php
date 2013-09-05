@@ -1,42 +1,44 @@
-<!--$sitebuilder version="2.8.5" extra="Java(1.7.0_09)" md5="34041f440c735497267c576cd0fda716"$-->
-<!--$templateKey Blank||1.0.0$-->
-<html>
-  <head>
-    <title>Events</title>
-    <meta name="generator" content="Yahoo! SiteBuilder/2.8.5/1.7.0_09">
-    <meta name="description" content="Dominion Shotokan Karate Club, LLC calendar of upcoming events">
-    <meta name="keywords" content="Shotokan, karate, classes">
-    <!--$page size 1005, 3000$-->
-    <!--$page margin 0, 0, 20, 0$-->
-    <!--$centered$-->
-    <!--$fontFamily Arial$-->
-    <!--$fontSize 14$-->
-    <style type="text/css"><!--
-      BODY {font-family:"Arial"; font-size:14;margin:0px;padding:0px;text-align:center;min-width:1003px;}
-      P {font-family:"Arial"; font-size:14;}
-      FORM {margin:0;padding:0;}
-      #centerwrapper {text-align:left;width:1003px;margin-left:auto;margin-right:auto;}
-    --></style>
-  </head>
-  <body bgcolor="#253447" text="#000000" link="#0000FF" vlink="#800080" topmargin="0" leftmargin="0">
-
-<!--$begin exclude$-->
-    <div id="centerwrapper">
-      <div id="root" style="position:absolute;width:1003px;height:707px;">
-<!--$end exclude$-->
-        <div id="e0" style="position:absolute;left:1;top:0;width:998;height:78;"><!--$img %ImageAssetImpl:/images/generic_dusk_header.jpg$--><img src="sitebuilder/images/generic_dusk_header-998x78.jpg" width="998" height="78" alt=""></div>        <div id="e1" style="position:absolute;left:1;top:78;width:998;height:44;"><img src="images/generic_dusk_search_bar_background_tile.gif" width="998" height="44" alt=""></div>        <div id="e2" style="position:absolute;left:150;top:25;width:586;height:40;"><span class="text"><font color="#D4A84B" size="6"><span style="font-size:30px;line-height:35px;">Dojo Rules - Shotokan Kata<br/></span></font></span>        </div>
-        <div id="e3" style="position:absolute;left:155;top:175;width:675;height:459;"><span class="text"><font color="#979BA0" size="2"><span style="font-size:12px;line-height:15px;">Heian (Peaceful Mind)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shodan<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nidan<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sandan<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yondan<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Godan<br>Tekki (Iron Horse)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shodan<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nidan<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sandan<br>Bassai (Storm a Fortress)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dai (Major)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sho (minor)<br>Kanku (View the Sky)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dai (Major)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sho (Minor)<br>Jion (Temple Ground)<br>Jitte (Ten Hands)<br>Hangetsu (Half Moon)<br>Empi (Flying Swallow)<br>Chinte (Unusual Hands)<br>Gankaku (Crane on a Rock)<br>Sochin (Maintain Peace/ To Overcome)<br>Nijushiho (Twenty-four Steps)<br>Gojushiho (Fifty-four Steps)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dai (Major)<br>&#8226; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sho (minor)<br>Unsu (Cloud Hands)<br>Meikyo (Polished Mirror)<br>Wankan (King&#8217;s Crown)<br/></span></font></span>        </div>
-        <div id="e4" style="position:absolute;left:11;top:198;width:129;height:270;"><!--$navbar 
-name=navbar.nav
-assetID=%NavbarAsset:/navigation_bars/navbar.nav
-$--><!--$begin exclude$--><table border="0" cellspacing="0" cellpadding="0"><tr><td><a href="index.html"><img name="i5" src="sitebuilder/images/navbar-0-inactive-77129.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="news.html"><img name="i6" src="sitebuilder/images/navbar-1-inactive-77285.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="instructors.html" onMouseOver="document.images['i7'].src='sitebuilder/images/navbar-2-mouseOver-58579.png'" onMouseOut="document.images['i7'].src='sitebuilder/images/navbar-2-inactive-77348.png'"><img name="i7" src="sitebuilder/images/navbar-2-inactive-77348.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="classes.html" onMouseOver="document.images['i8'].src='sitebuilder/images/navbar-3-mouseOver-58610.png'" onMouseOut="document.images['i8'].src='sitebuilder/images/navbar-3-inactive-77410.png'"><img name="i8" src="sitebuilder/images/navbar-3-inactive-77410.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="DojoRules-Introduction.html" onMouseOver="document.images['i9'].src='sitebuilder/images/navbar-5-mouseOver-34128.png'" onMouseOut="document.images['i9'].src='sitebuilder/images/navbar-5-inactive-34097.png'"><img name="i9" src="sitebuilder/images/navbar-5-inactive-34097.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="events.html" onMouseOver="document.images['i10'].src='sitebuilder/images/navbar-6-mouseOver-76292.png'" onMouseOut="document.images['i10'].src='sitebuilder/images/navbar-6-inactive-76261.png'"><img name="i10" src="sitebuilder/images/navbar-6-inactive-76261.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="Photos.html" onMouseOver="document.images['i11'].src='sitebuilder/images/navbar-7-mouseOver-03618.png'" onMouseOut="document.images['i11'].src='sitebuilder/images/navbar-7-inactive-03586.png'"><img name="i11" src="sitebuilder/images/navbar-7-inactive-03586.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="links.html" onMouseOver="document.images['i12'].src='sitebuilder/images/navbar-8-mouseOver-60165.png'" onMouseOut="document.images['i12'].src='sitebuilder/images/navbar-8-inactive-60149.png'"><img name="i12" src="sitebuilder/images/navbar-8-inactive-60149.png" border="0" width="129" height="30" alt=""/></a></td></tr><tr><td><a href="contactus.html" onMouseOver="document.images['i13'].src='sitebuilder/images/navbar-9-mouseOver-62733.png'" onMouseOut="document.images['i13'].src='sitebuilder/images/navbar-9-inactive-62714.png'"><img name="i13" src="sitebuilder/images/navbar-9-inactive-62714.png" border="0" width="129" height="30" alt=""/></a></td></tr></table><!--$end exclude$-->        </div>
-        <div id="e14" style="position:absolute;left:150;top:80;width:446;height:28;"><span class="text"><font color="#D4A84B" size="4"><span style="font-size:18px;line-height:22px;">Dominion Shotokan Karate Club, LLC<br/></span></font></span>        </div>
-        <div id="e15" style="position:absolute;left:1;top:0;width:125;height:124;"><img src="images/site_logo_-_125x125_-_transparent.gif" width="125" height="124" alt=""></div>        <div id="e16" style="position:absolute;left:5;top:643;width:998;height:44;"><img src="images/generic_dusk_footer.gif" width="998" height="44" alt=""></div>        <div id="e17" style="position:absolute;left:345;top:656;width:308;height:18;"><span class="text"><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Copyright &#169; Dominion Shotokan Karate Club, LLC 2010<br/></span></font></span>        </div>
-        <div id="e18" style="position:absolute;left:850;top:175;width:100;height:205;"><span class="text"><b><font color="#D4A84B" size="2"><span style="font-size:12px;line-height:15px;">Dojo Rules<br>Navigation<br><br></span></font></b><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">01 </span></font></a><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">I</span></font></a><a href="DojoRules-Introduction.html"><font size="2"><span style="font-size:12px;line-height:15px;">ntroduction<br></span></font></a><a href="DojoRules-FAQs.html"><font size="2"><span style="font-size:12px;line-height:15px;">02 FAQs<br></span></font></a><a href="DojoRules-Etiquette.html"><font size="2"><span style="font-size:12px;line-height:15px;">03 Etiquette<br></span></font></a><a href="DojoRules-Protocols.html"><font size="2"><span style="font-size:12px;line-height:15px;">04 Protocols<br></span></font></a><a href="DojoRules-Ranks.html"><font size="2"><span style="font-size:12px;line-height:15px;">05 Ranks<br></span></font></a><a href="DojoRules-Events.html"><font size="2"><span style="font-size:12px;line-height:15px;">06 Events<br></span></font></a><a href="DojoRules-Terminology.html"><font size="2"><span style="font-size:12px;line-height:15px;">07 Terminology<br></span></font></a><a href="DojoRules-ShotokanKata.html"><font size="2"><span style="font-size:12px;line-height:15px;">08 Kata<br></span></font></a><a href="DojoRules-DojoKun.html"><font size="2"><span style="font-size:12px;line-height:15px;">09 Dojo Kun<br></span></font></a><a href="DojoRules-NijuKun.html"><font size="2"><span style="font-size:12px;line-height:15px;">10 Niju Kun<br/></span></font></a></span>        </div>
-<!--$begin exclude$-->
-      </div>
-    </div>
-<!--$end exclude$-->
-<!--$begin exclude$--><div style="position:absolute;left:50;top:50;background:white"><font color=black>This file is not intended to be viewed directly using a web browser.  To create a viewable file, use the <b>Preview in Browser</b> or <b>Publish to Yahoo! Web Hosting</b> commands from within Yahoo! SiteBuilder.</font></div><!--$end exclude$-->
-  </body>
-</html>
+<div style="float: left;">
+	<span class="japaneseTerm">Heian</span> (Peaceful Mind)
+	<ul>
+		<li><span class="japaneseTerm">Shodan</span></li>
+		<li><span class="japaneseTerm">Nidan</span></li>
+		<li><span class="japaneseTerm">Sandan</span></li>
+		<li><span class="japaneseTerm">Yondan</span></li>
+		<li><span class="japaneseTerm">Godan</span></li>
+	</ul>
+	<span class="japaneseTerm">Tekki</span> (Iron Horse)
+	<ul>
+		<li><span class="japaneseTerm">Shodan</span></li>
+		<li><span class="japaneseTerm">Nidan</span></li>
+		<li><span class="japaneseTerm">Sandan</span></li>
+		<li><span class="japaneseTerm">Yondan</span></li>
+		<li><span class="japaneseTerm">Godan</span></li>
+	</ul>
+	<span class="japaneseTerm">Bassai</span> (Storm a Fortress)
+	<ul>
+		<li><span class="japaneseTerm">Dai</span> (Major)</li>
+		<li><span class="japaneseTerm">Sho</span> (Minor)</li>
+	</ul>
+	<span class="japaneseTerm">Kanku</span> (View the Sky)
+	<ul>
+		<li><span class="japaneseTerm">Dai</span> (Major)</li>
+		<li><span class="japaneseTerm">Sho</span> (Minor)</li>
+	</ul>
+	<span class="japaneseTerm">Jion</span> (Temple Ground)<br /> <span
+		class="japaneseTerm">Jitte</span> (Ten Hands)<br /> <span
+		class="japaneseTerm">Hangetsu</span> (Half Moon)<br /> <span
+		class="japaneseTerm">Empi</span> (Flying Swallow)<br /> <span
+		class="japaneseTerm">Chinte</span> (Unusual Hands)<br /> <span
+		class="japaneseTerm">Gankaku</span> (Crane on a Rock)<br /> <span
+		class="japaneseTerm">Sochin</span> (Maintain Peace/ To Overcome)<br />
+	<span class="japaneseTerm">Nijushiho</span> (Twenty-four Steps)<br /> <span
+		class="japaneseTerm">Gojushiho</span> (Fifty-four Steps)<br />
+	<ul>
+		<li><span class="japaneseTerm">Dai</span> (Major)</li>
+		<li><span class="japaneseTerm">Sho</span> (Minor)</li>
+	</ul>
+	<span class="japaneseTerm">Unsu</span> (Cloud Hands)<br /> <span
+		class="japaneseTerm">Meikyo</span> (Polished Mirror)<br /> <span
+		class="japaneseTerm">Wankan</span> (King&#8217;s Crown)<br />
+</div>
