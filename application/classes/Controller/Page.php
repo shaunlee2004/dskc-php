@@ -167,7 +167,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->template->title = __ ( 'Resources' );
 				$this->pageData['headerTitle'] = 'Resources';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
-				$this->pageData['mainContent'] = View::factory ('links');
+				$this->pageData['mainContent'] = View::factory ('resources');
 				$this->fill_template();
 			}
 			public function action_contactUs() {
