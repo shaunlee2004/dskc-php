@@ -1,5 +1,5 @@
 <p>
-	<i>Karate begins and ends with courtesy&#8221;<br>Master Gichin
+	<i>&#8221;Karate begins and ends with courtesy&#8221;<br>Master Gichin
 		Funakoshi
 	</i>
 </p>
