@@ -3,7 +3,6 @@
 	<div id='cssmenu'>
 		<ul>
 			<li><?php echo Html::anchor('page/home', '<span>Home</span>');?></li>
-			<li><?php echo Html::anchor('page/news', '<span>News</span>');?></li>
 			<li><?php echo Html::anchor('page/instructors', '<span>Instructors</span>');?></li>
 			<li><?php echo Html::anchor('page/classes', '<span>Classes</span>');?></li>
 			<li class='active has-sub'>
@@ -21,6 +20,7 @@
 					<li><?php echo Html::anchor('page/dojoRulesNijuKun', '<span>Niju Kun</span>');?></li>
 				</ul>
 			</li>
+			<li><?php echo Html::anchor('page/news', '<span>News</span>');?></li>
 			<li><?php echo Html::anchor('page/events', '<span>Events</span>');?></li>
 			<li class='active has-sub'>
 				<?php echo Html::anchor('page/photosTuluceanu2013', '<span>Event Photos</span>');?>
@@ -32,6 +32,7 @@
 					<li><?php echo Html::anchor('page/photosMaeshima2009', '<span>Maeshima 2009</span>');?></li>
 				</ul>
 			</li>
+			<li><?php echo Html::anchor('page/equipment', '<span>Equipment</span>');?></li>
 			<li><?php echo Html::anchor('page/resources', '<span>Resources</span>');?></li>
 			<li><?php echo Html::anchor('page/contactUs', '<span>Contact Us</span>');?></li>
 		</ul>
