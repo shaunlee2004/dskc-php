@@ -68,7 +68,8 @@
 	-moz-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.15);
 	-webkit-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.15);
 	box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.15);
-	*/width: 100px;
+	*/
+	width: 110px; /* this modified placement of sub-menu arrow */
 }
 
 #cssmenu span,#cssmenu a {
