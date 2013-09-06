@@ -154,7 +154,14 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['mainContent'] = View::factory ('photos-maeshima2009');
 				$this->fill_template();
 			}
-				
+			public function action_equipment() {
+			
+				$this->template->title = __ ( 'Equipment' );
+				$this->pageData['headerTitle'] = 'Equipment';
+				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
+				$this->pageData['mainContent'] = View::factory ('equipment');
+				$this->fill_template();
+			}				
 			public function action_resources() {
 
 				$this->template->title = __ ( 'Resources' );
