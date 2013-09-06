@@ -1,3 +1,10 @@
+<div style="float: left;">
+	<dl>
+		<dt><?php echo HTML::file_anchor("/media/files/Shotokan_PocketMod.pdf", "Pocket Guide to Terminology")  ?> (courtesy of Liane Rozzell)</dt>
+		<dd><?php echo HTML::anchor("http://pocketmod.com/", "folding instructions") ?></dd>
+	</dl>
+</div>
+<br/>
 <table class="topAligned bordered" style="width: 80%;">
 	<tr>
 		<td>
@@ -117,8 +124,8 @@
 			class="japaneseTerm">Ippon Ken:</span> Knuckle Punch<br> <span
 			class="japaneseTerm">Nakadaka Ippon Ken:</span> Middle Knuckle Punch.
 		</td>
-</tr>
-<tr>
+	</tr>
+	<tr>
 		<td>
 			<div class="title">Kicks</div> <span class="japaneseTerm">Mae Geri:</span>
 			Front Kick<br> <span class="japaneseTerm">Yoko Geri Kekomi:</span>
