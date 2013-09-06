@@ -145,7 +145,7 @@ ol li {
 	position: relative;
     display: block;
     float: left;
-    width: 100px;
+    width: 120px;
     padding-top: 80px;
     /*border: 1px solid blue;*/
 }
@@ -166,5 +166,6 @@ ol li {
 }
 
 .japaneseTerm{
-	font-weight: bold;
+	font-style: italic;
+	//font-weight: 700;
 }
