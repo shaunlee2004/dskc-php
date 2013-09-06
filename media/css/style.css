@@ -152,12 +152,12 @@ ol li {
 
 #footer {
     text-align: center;
-	height: 44px;
+	height: 36px;
     width: 1000px;
     background: url('/dskc/media/img/generic_dusk_footer-760x44.gif') no-repeat center;
 	color: #D4A84B;
 	font-size: 12px;
-	line-height: 44px;
+	line-height: 17px;
 	padding: 10px;
 }
 
