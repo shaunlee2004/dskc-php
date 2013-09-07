@@ -1,10 +1,16 @@
-<div style="float: left">
-	<div style="float: right;">
+<br/><!-- DANGER: 5 BR hack to get below logo curve -->
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; position: relative;">
+	<div class="paddedImage" style="float: right;">
 		<?php echo HTML::image("/media/img/Niju_Kun.gif")?>
 		<div class="subtitle" style="text-align: center;" >Niju Kun</div>
 	</div>
 
-	<ol>
+<ol style="width: 840px;"><!-- DANGER: this will need to change if menu size changes -->
 		<li><span class="japaneseTerm">Dojo nomino karate to omou na.</span><br />Karate
 			is not only for dojo training.</li>
 		<li><span class="japaneseTerm">Karate-do wa rei ni hajimari, rei ni
