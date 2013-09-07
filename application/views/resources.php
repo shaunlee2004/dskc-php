@@ -50,7 +50,7 @@
 		<dt>Mind and body - Like Bullet by Yutaka Yaguchi</dt>
 		<dd><?php echo HTML::image("/media/img/book_mind_and_body_like_bullet.jpg", array('height'=> 215, 'width' => 157))?></dd>
 		<dt>Karate: The art of &quot;Empty-Hand&quot; Fighting by Hidetaka Nishiyama</dt>
-		<dd><?php echo HTML::image("/media/img/book_Karate_the_art_of_empty_hand_fighting.jpg", array('height'=> 215, 'width' => 146))?></dd>
+		<dd><?php echo HTML::image("/media/img/book_karate_the_art_of_empty_hand_fighting.jpg", array('height'=> 215, 'width' => 146))?></dd>
 		<dt>Complete Shotokan Karate: The Samurai Legacy and the Modern Practice by Robin L. Reilly</dt>
 		<dd><?php echo HTML::image("/media/img/book_complete_shotokan_karate.jpg", array('height'=> 215, 'width' => 136))?></dd>
 		<dt>Secrets of Shotokan Karate by Robin L. Reilly</dt>
