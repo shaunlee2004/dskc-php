@@ -90,6 +90,7 @@ ol li {
 	left: 170px;
 	color: #D4A84B;
 	size: 6;
+	font-family: Arial;
 	font-size: 30px;
 	line-height: 35px;
 }
@@ -99,7 +100,8 @@ ol li {
 	left: 190px;
 	color: #D4A84B;
 	size: 4;
-	font-size: 18px;
+	font-family: Arial;
+		font-size: 18px;
 	line-height: 22px;
 }
 
