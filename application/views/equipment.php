@@ -23,10 +23,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 	<div class="paddedImage" style="float: left; position: relative;">
 		<?php
-		echo HTML::image ( "/media/img/belts.jpg", array (
-				'height' => 180,
-				'width' => 354 
-		) )?>
+		echo HTML::image ( "/media/img/karate_belts.jpg" )?>
 	<div class="caption">belts</div>
 
 	</div>
