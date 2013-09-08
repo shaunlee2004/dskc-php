@@ -13,7 +13,7 @@
 					<li><?php echo Html::anchor('page/dojoRulesEtiquette', '<span>Etiquette</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesProtocols', '<span>Protocols</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesRanks', '<span>Ranks</span>');?></li>
-					<li><?php echo Html::anchor('page/dojoRulesEvents', '<span>Events</span>');?></li>
+					<li><?php echo Html::anchor('page/dojoRulesEvents', '<span>Supplemental<br/>&nbsp;&nbsp;&nbsp;Training</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesTerminology', '<span>Terminology</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesKata', '<span>Kata</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesDojoKun', '<span>Dojo Kun</span>');?></li>
@@ -26,7 +26,7 @@
 				<?php echo Html::anchor('page/photosTuluceanu2013', '<span>Event Photos</span>');?>
 				<ul>
 					<li><?php echo Html::anchor('page/photosTuluceanu2013', '<span>Tuluceanu 2013</span>');?></li>
-					<li><?php echo Html::anchor('page/photosRastegarFoltz2012', '<span>Rastegar &amp;<br/>Foltz 2012</span>');?></li>
+					<li><?php echo Html::anchor('page/photosRastegarFoltz2012', '<span>Rastegar &amp;<br/>&nbsp;&nbsp;&nbsp;Foltz 2012</span>');?></li>
 					<li><?php echo Html::anchor('page/photosHoffman2011', '<span>Hoffman 2011</span>');?></li>
 					<li><?php echo Html::anchor('page/photosPohle2010', '<span>Pohle 2010</span>');?></li>
 					<li><?php echo Html::anchor('page/photosMaeshima2009', '<span>Maeshima 2009</span>');?></li>
