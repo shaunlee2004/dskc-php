@@ -1,9 +1,3 @@
-<br/><!-- DANGER: 5 BR hack to get below logo curve -->
-<br/>
-<br/>
-<br/>
-<br/>
-
 <div style="float: left; position: relative;">
 	<div class="paddedImage" style="float: right;">
 		<?php echo HTML::image("/media/img/Niju_Kun.gif")?>

@@ -5,7 +5,8 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			public $pageData = array(
 					'headerTitle' => 'default header title',
 					'headerSubtitle' => 'default header subtitle',
-					'mainContent' => 'default main content'
+					'mainContent' => 'default main content',
+					'isLogoWrapping' => true
 			);
 
 			private function fill_template(){
@@ -94,6 +95,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Shotokan Kata';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-shotokanKata');
+				$this->pageData['isLogoWrapping'] = false;
 				$this->fill_template();
 			}
 			public function action_dojoRulesDojoKun() {
@@ -109,6 +111,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Niju Kun';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-nijuKun');
+				$this->pageData['isLogoWrapping'] = false;
 				$this->fill_template();
 			}
 			public function action_events() {
@@ -168,6 +171,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['headerTitle'] = 'Resources';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('resources');
+				$this->pageData['isLogoWrapping'] = false;
 				$this->fill_template();
 			}
 			public function action_contactUs() {
