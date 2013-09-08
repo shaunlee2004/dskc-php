@@ -9,7 +9,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			);
 
 			private function fill_template(){
-				$this->template->content = View::factory ( 'pageTemplate', $this->pageData );
+				$this->template->content = View::factory ( 'template\pageTemplate', $this->pageData );
 			}
 			
 			public function action_home() {

@@ -2,7 +2,7 @@
 
 defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 class Controller_Basic extends Controller_Template {
-	public $template = 'template';
+	public $template = 'template\template';
 	
 	/**
 	 * The before() method is called before your controller action.
