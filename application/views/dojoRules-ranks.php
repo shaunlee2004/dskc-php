@@ -1,15 +1,18 @@
 <p>
 	Originally, there were no belts in karate except those used to hold up
 	your pants. Master Jigoro Kano, the founder of <span
-		class="japaneseTerm">judo</span>, instituted a belt ranking system consiting of white and black. Later it was deemed necessary
-	to have an intermediate level (brown). Eventually another color,
-	green, was added between white and brown. This has now evolved into
-	the spectrum of colors we have currently. In Shotokan, the belts and
-	ranks are:
+		class="japaneseTerm">judo</span>, instituted a belt ranking system
+	consiting of white and black. Later it was deemed necessary to have an
+	intermediate level (brown). Eventually another color, green, was added
+	between white and brown. This has now evolved into the spectrum of
+	colors we have currently. In Shotokan, the belts and ranks are:
 </p>
-
-
-<table class="topAligned bordered" style="margin-left: auto; margin-right: auto;">
+<div>
+	<div class="paddedImage" style="float: left; position: relative">
+	<?php echo HTML::image("/media/img/stacked_belts.jpg", array('width' => '140px', 'height' => '200px'))?>
+	<div class="caption">Drawing courtesy of<br/>University of Wisconsin<br/>Eau Claire</div>
+</div>
+<table class="topAligned bordered">
 	<tr>
 		<td style="width: 80px; background-color: white;"></td>
 		<td>White</td>
@@ -18,7 +21,9 @@
 
 	<tr>
 		<td style="width: 80px; background-color: white;">
-		<hr style="background:black; border:0; height:7px" /></hr></td>
+		<div>XXXXX</div>
+		<!-- <hr style="background:black; border:0; height:7px" /></hr> -->
+		</td>
 		<td>White w/ black stripe</td>
 		<td>9th <span class="japaneseTerm">kyu</span></td>
 	</tr>
@@ -63,6 +68,7 @@
 		<td>1st - 10th <span class="japaneseTerm">dan</span></td>
 	</tr>
 </table>
+</div>
 <p>
 	White through orange are considered beginner ranks, green and purple
 	are intermediate, and brown and black are advanced ranks. It will take,
