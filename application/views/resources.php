@@ -4,6 +4,9 @@
 	<dt>
 	<?php echo HTML::anchor("http://www.iskf.com", "International Shotokan Karate Federation (ISKF)")?></dt>
 	<dt><?php echo HTML::anchor("http://www.theshotokanway.com/", "The Shotokan Way") ?></dt>
+	<dt><?php echo HTML::anchor("http://www.youtube.com/watch?v=9j9qz86PmYA", "How to tie a belt (YouTube)") ?></dt>
+	
+	
 </dl>
 
 <div class="title">Files</div>
