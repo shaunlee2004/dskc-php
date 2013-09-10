@@ -63,8 +63,8 @@ ol li {
       /* border: 1px solid red; */
       height: 122px;
       width: 998px;
-      background: url('/dskc/media/img/generic_dusk_header-998x78.jpg') no-repeat,
-      	url('/dskc/media/img/generic_dusk_search_bar_background_tile.gif') bottom, no-repeat;
+      background: url('/media/img/generic_dusk_header-998x78.jpg') no-repeat,
+      	url('/media/img/generic_dusk_search_bar_background_tile.gif') bottom, no-repeat;
 }      
 
  
@@ -73,7 +73,7 @@ ol li {
 	float: left;
 	height: 200px;
     width: 200px;
-	background: url('/dskc/media/img/site_logo_-_200x200_-_transparent.gif') no-repeat;
+	background: url('/media/img/site_logo_-_200x200_-_transparent.gif') no-repeat;
 		
 }
 
@@ -82,7 +82,7 @@ ol li {
       /* border: 1px solid red; */
       height: 78px;
       width: 998px;
-      background: url('/dskc/media/img/generic_dusk_search_bar_background_tile.gif') repeat;
+      background: url('/media/img/generic_dusk_search_bar_background_tile.gif') repeat;
 } 
 
 #header .title {
@@ -156,7 +156,7 @@ ol li {
     text-align: center;
 	height: 36px;
     width: 1000px;
-    background: url('/dskc/media/img/generic_dusk_footer-760x44.gif') no-repeat center;
+    background: url('/media/img/generic_dusk_footer-760x44.gif') no-repeat center;
 	color: #D4A84B;
 	font-size: 12px;
 	line-height: 17px;
