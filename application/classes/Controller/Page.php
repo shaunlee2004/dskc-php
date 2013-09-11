@@ -77,8 +77,8 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->fill_template();
 			}
 			public function action_dojoRulesEvents() {
-				$this->template->title = __ ( 'Dojo Rules - Events' );
-				$this->pageData['headerTitle'] = 'Dojo Rules - Events';
+				$this->template->title = __ ( 'Dojo Rules - Special Trainings' );
+				$this->pageData['headerTitle'] = 'Dojo Rules - Special Trainings';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-events');
 				$this->fill_template();

@@ -13,7 +13,7 @@
 					<li><?php echo Html::anchor('page/dojoRulesEtiquette', '<span>Etiquette</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesProtocols', '<span>Protocols</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesRanks', '<span>Ranks</span>');?></li>
-					<li><?php echo Html::anchor('page/dojoRulesEvents', '<span>Supplemental<br/>&nbsp;&nbsp;&nbsp;Training</span>');?></li>
+					<li><?php echo Html::anchor('page/dojoRulesEvents', '<span>Special<br/>&nbsp;&nbsp;&nbsp;Trainings</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesTerminology', '<span>Terminology</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesKata', '<span>Kata</span>');?></li>
 					<li><?php echo Html::anchor('page/dojoRulesDojoKun', '<span>Dojo Kun</span>');?></li>
