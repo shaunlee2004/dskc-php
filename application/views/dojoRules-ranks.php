@@ -20,9 +20,8 @@
 	</tr>
 
 	<tr>
-		<td style="width: 80px; background-color: white;">
-		<div>XXXXX</div>
-		<!-- <hr style="background:black; border:0; height:7px" /></hr> -->
+		<td style="width: 80px; background-color: white; padding: 0px;">
+		<hr style="background:black; border:0; height:7px" /></hr>
 		</td>
 		<td>White w/ black stripe</td>
 		<td>9th <span class="japaneseTerm">kyu</span></td>
