@@ -2,11 +2,11 @@
 	<div class="title">Shitei (Beginner) Kata</div>
 	<span class="japaneseTerm">Heian</span> (Peaceful Mind)
 	<ul>
-		<li><span class="japaneseTerm">Shodan</span></li>
-		<li><span class="japaneseTerm">Nidan</span></li>
-		<li><span class="japaneseTerm">Sandan</span></li>
-		<li><span class="japaneseTerm">Yondan</span></li>
-		<li><span class="japaneseTerm">Godan</span></li>
+		<li><span class="japaneseTerm">Shodan</span> (#1)</li>
+		<li><span class="japaneseTerm">Nidan</span> (#2)</li>
+		<li><span class="japaneseTerm">Sandan</span> (#3)</li>
+		<li><span class="japaneseTerm">Yondan</span> (#4)</li>
+		<li><span class="japaneseTerm">Godan</span> (#5)</li>
 	</ul>
 	<span class="japaneseTerm">Tekki Shodan</span> (Iron Horse)
 </div>
@@ -20,6 +20,12 @@
 </div>
 <div style="float: left; padding: 5px;">
 	<div class="title">Advanced Kata</div>
+	<span class="japaneseTerm">Tekki</span> (Iron Horse)
+	<ul>
+		<li><span class="japaneseTerm">Shodan</span> (#1)</li>
+		<li><span class="japaneseTerm">Nidan</span> (#2)</li>
+		</ul>
+	
 	<span class="japaneseTerm">Bassai Sho</span> (Storm a Fortress - Minor)<br />
 	<span class="japaneseTerm">Kanku Sho</span> (View the Sky - Minor)<br />
 	<span class="japaneseTerm">Jitte</span> (Ten Hands)<br /> <span
