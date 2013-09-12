@@ -20,7 +20,7 @@
 			'width' => 469,
 			'height' => 308
 	) )?>
-	<div class="caption">Sensei Sterian Tuluceanu inspects the class<br/>while Sensei Marian Tuluceanu demostrates kamai</div>
+	<div class="caption">Sensei Sterian Tuluceanu inspects the class<br/>while Sensei Marian Tuluceanu demostrates kamae</div>
 </div>
 <div class="paddedImage" style="float: right;">
 	<?php
