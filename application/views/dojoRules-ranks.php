@@ -7,67 +7,74 @@
 	between white and brown. This has now evolved into the spectrum of
 	colors we have currently. In Shotokan, the belts and ranks are:
 </p>
-<div>
-	<div class="paddedImage" style="float: left; position: relative">
-	<?php echo HTML::image("/media/img/stacked_belts.jpg", array('width' => '140px', 'height' => '200px'))?>
-	<div class="caption">Drawing courtesy of<br/>University of Wisconsin<br/>Eau Claire</div>
+<!-- <div style="text-align: center; margin-left: auto; margin-right: auto"> -->
+<div class="paddedImage"
+	style="float: left; position: relative; width: 30%; text-align: right;">
+			<?php echo HTML::image("/media/img/stacked_belts.jpg", array('width' => '140px', 'height' => '200px'))?>
+			<div class="caption" style="text-align: right;">
+		Drawing courtesy of<br />University of Wisconsin<br />Eau Claire
+	</div>
 </div>
-<table class="topAligned bordered">
-	<tr>
-		<td style="width: 80px; background-color: white;"></td>
-		<td>White</td>
-		<td>10th <span class="japaneseTerm">kyu</span></td>
-	</tr>
+<div style="float: left; position: relative;width: 50%;">
+	<table class="topAligned bordered">
+		<tr>
+			<td style="width: 80px; background-color: white;"></td>
+			<td>White</td>
+			<td>10th <span class="japaneseTerm">kyu</span></td>
+		</tr>
 
-	<tr>
-		<td style="width: 80px; background-color: white; padding: 0px;">
-		<hr style="background:black; border:0; height:7px" /></hr>
-		</td>
-		<td>White w/ black stripe</td>
-		<td>9th <span class="japaneseTerm">kyu</span></td>
-	</tr>
+		<tr>
+			<td style="width: 80px; background-color: white; padding: 0px;">
+				<hr style="background: black; border: 0; height: 7px" /></hr>
+			</td>
+			<td>White w/ black stripe</td>
+			<td>9th <span class="japaneseTerm">kyu</span></td>
+		</tr>
 
-	<tr>
-		<td style="width: 80px; background-color: yellow;"></td>
-		<td>Yellow</td>
-		<td>8th <span class="japaneseTerm">kyu</span></td>
-	</tr>
+		<tr>
+			<td style="width: 80px; background-color: yellow;"></td>
+			<td>Yellow</td>
+			<td>8th <span class="japaneseTerm">kyu</span></td>
+		</tr>
 
-	<tr>
-		<td style="width: 80px; background-color: orange;"></td>
-	<td>Orange</td>
-		<td>7th <span class="japaneseTerm">kyu</span></td>
-	</tr>
+		<tr>
+			<td style="width: 80px; background-color: orange;"></td>
+			<td>Orange</td>
+			<td>7th <span class="japaneseTerm">kyu</span></td>
+		</tr>
 
-	<tr>
+		<tr>
 			<td style="width: 80px; background-color: green;"></td>
-	
-		<td>Green</td>
-		<td>6th <span class="japaneseTerm">kyu</span></td>
-	</tr>
 
-	<tr>
+			<td>Green</td>
+			<td>6th <span class="japaneseTerm">kyu</span></td>
+		</tr>
+
+		<tr>
 			<td style="width: 80px; background-color: purple;"></td>
-	
-		<td>Purple</td>
-		<td>5th - 4th <span class="japaneseTerm">kyu</span></td>
-	</tr>
 
-	<tr>
+			<td>Purple</td>
+			<td>5th - 4th <span class="japaneseTerm">kyu</span></td>
+		</tr>
+
+		<tr>
 			<td style="width: 80px; background-color: #663333;"></td>
-	
-		<td>Brown</td>
-		<td>3rd - 1st <span class="japaneseTerm">kyu</span></td>
-	</tr>
 
-	<tr>
+			<td>Brown</td>
+			<td>3rd - 1st <span class="japaneseTerm">kyu</span></td>
+		</tr>
+
+		<tr>
 			<td style="width: 80px; background-color: black;"></td>
-	
-		<td>Black</td>
-		<td>1st - 10th <span class="japaneseTerm">dan</span></td>
-	</tr>
-</table>
+
+			<td>Black</td>
+			<td>1st - 10th <span class="japaneseTerm">dan</span></td>
+		</tr>
+	</table>
 </div>
+<!-- 	</div> -->
+<div class="clearfloat"></div>
+
 <p>
 	White through orange are considered beginner ranks, green and purple
 	are intermediate, and brown and black are advanced ranks. It will take,
@@ -75,10 +82,10 @@
 		class="japaneseTerm">dan</span> rank or black belt.
 </p>
 <p>Testing is an opportunity for students to advance in rank. Tests are
-	scheduled four times per year, usually in January, April, July, and October.
-	Members must have accrued, at least, 24 classes before being allowed to
-	test. This is an minimum of about two classes per week, which is the
-	minimum number of classes someone can train. Students testing must pay
-	an exam fee and, if membership has expired, a one year membership fee
-	to the ISKF. There is no guarantee that you will pass. Remember, it is
-	not about belts; it is about perfecting your character.</p>
+	scheduled four times per year, usually in January, April, July, and
+	October. Members must have accrued, at least, 24 classes before being
+	allowed to test. This is an minimum of about two classes per week,
+	which is the minimum number of classes someone can train. Students
+	testing must pay an exam fee and, if membership has expired, a one year
+	membership fee to the ISKF. There is no guarantee that you will pass.
+	Remember, it is not about belts; it is about perfecting your character.</p>
