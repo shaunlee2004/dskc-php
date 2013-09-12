@@ -6,10 +6,20 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 					'headerTitle' => 'default header title',
 					'headerSubtitle' => 'default header subtitle',
 					'mainContent' => 'default main content',
+					'full_version_name' => 'default full version name',
 					'isLogoWrapping' => true
 			);
 
 			private function fill_template(){
+				$config = Kohana::$config->load('dskc');
+				$full_version_name = '';
+				if( strtoupper($config['environment']) != 'PROD'){
+					$full_version_name .= $config['environment']." ";
+				}
+				$full_version_name .= $config['version']['name']." ";
+				$full_version_name .= '('.$config['version']['released'].')';
+				$this->pageData['full_version_name'] = $full_version_name;
+				
 				$this->template->content = View::factory ( 'template\pageTemplate', $this->pageData );
 			}
 			
