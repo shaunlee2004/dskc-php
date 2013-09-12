@@ -8,26 +8,17 @@
 
 <div class="paddedImage" style="float: left;">
 	<?php
-	echo HTML::image ( "/media/img/2009_09_19_011-402x183.jpg", array (
-			'width' => 402,
-			'height' => 183 
-	) )?>
+	echo HTML::image ( "/media/img/maeshima-kizami-zuki.jpg")?>
 	<div class="caption">Sensei Maeshima mirroring kizami-zuki</div>
 </div>
 <div class="clearfloat"></div>
 <div class="paddedImage" style="float: left;">
 	<?php
-	echo HTML::image ( "/media/img/2009_09_19_030-362x186.jpg", array (
-			'width' => 362,
-			'height' => 186 
-	) )?>
+	echo HTML::image ( "/media/img/maeshima-kiba-dachi.jpg")?>
 	<div class="caption">Explaining kiba-dachi</div>
 </div>
 <div class="paddedImage" style="float: left;">
 	<?php
-	echo HTML::image ( "/media/img/2009_09_19_031-331x199.jpg", array (
-			'width' => 331,
-			'height' => 199 
-	) )?>
+	echo HTML::image ( "/media/img/maeshima-more-kiba-dachi.jpg")?>
 	<div class="caption">Further lecture on kiba-dachi</div>
 </div>
