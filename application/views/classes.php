@@ -49,8 +49,8 @@
 	</tr>
 </table>
 <p style="color: red; font-weight: bold; text-align: center;">During
-	inclement weather, as long as the facility where class is located is
-	open, class will be held.</p>
+	inclement weather, as long as the facility is
+	open, classes will be held.</p>
 <table class="bordered topAligned">
 
 	<tr>

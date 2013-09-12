@@ -20,11 +20,9 @@
 <p>
 	Students are required to have a clean, white uniform, or <span
 		class="japaneseTerm">gi</span>, with an ISKF patch on the left breast
-	area. (Students training at Gold's Gym are not required to have a
-	uniform unless they will be testing for rank.) Men are encouraged to
-	wear a supporter and/or cup; women a sports bra or tee-shirt
-	underneath. This all the equipment you will need to practice.
-	Additional items for the future include sparring gloves and a
+	area. Men are encouraged to wear a supporter and/or cup; women a white sports
+	bra or tee-shirt underneath. This all the equipment you will need to
+	practice. Additional items for the future include sparring gloves and a
 	mouthpiece. Supplemental equipment can include: Best Karate books,
 	(volumes 1, 2 and 5 initially) videos of <span class="japaneseTerm">katas</span>,
 	a bag to carry your equipment and training tape.

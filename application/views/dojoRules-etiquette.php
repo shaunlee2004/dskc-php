@@ -23,9 +23,9 @@
 	the right knee and sit on your heels with your back straight and
 	looking toward the front. When instructed to bow, or <span
 		class="japaneseTerm">rei</span>, place both hands on the floor in
-	front of you and bend at the hips until your head touches your hands.
-	Do not rise until the person you are bowing to rises. When told to
-	stand, raise your body vertically and place your right foot on the
+	front of you and bend at the hips until your head is parallel to the
+	floor. Do not rise until the person you are bowing to rises. When told
+	to stand, raise your body vertically and place your right foot on the
 	ground. Stand and bring both feet to <span class="japaneseTerm">musubi
 		dachi</span>. Do not place your hands on the floor in order to get up
 	or to kneel. Do not be concerned about making a mistake; you will be
@@ -46,7 +46,7 @@
 </p>
 <div class="title">Sensei/sempai/kohai</div>
 <p>
-	The <span class="japaneseTerm">sensei</span>is the teacher or
+	The <span class="japaneseTerm">sensei</span> is the teacher or
 	instructor. It loosely translates as, &#8220;the person who was there
 	before the student.&#8221; <span class="japaneseTerm">Sempai</span> is
 	a senior student or anyone who is a higher rank than you. They are <span

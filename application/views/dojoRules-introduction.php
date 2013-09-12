@@ -8,7 +8,7 @@
 	and aspects of Japanese culture. This is understood as practicing
 	karate is much different than most endeavors you have undertaken in
 	your life thus far. You will make mistakes; learn from them. If you
-	have questions, feel free to ask the <span class="japaneseTerm">sensei</span>or
+	have questions, feel free to ask the <span class="japaneseTerm">sensei</span> or
 	a <span class="japaneseTerm">senpai</span> at the proper time. We are
 	all here to help you in your journey.
 </p>
