@@ -8,8 +8,11 @@
 		<li><span class="japaneseTerm">Yondan</span> (#4)</li>
 		<li><span class="japaneseTerm">Godan</span> (#5)</li>
 	</ul>
-	<span class="japaneseTerm">Tekki Shodan</span> (Iron Horse)
-</div>
+	<span class="japaneseTerm">Tekki</span> (Iron Horse)
+	<ul>
+		<li><span class="japaneseTerm">Shodan</span> (#1)</li>
+	</ul>
+	</div>
 <div style="float: left; padding: 5px;">
 	<div class="title">Sentei (Intermediate) Kata</div>
 	<span class="japaneseTerm">Bassai Dai</span> (Storm a Fortress - Major)<br />
@@ -22,8 +25,8 @@
 	<div class="title">Advanced Kata</div>
 	<span class="japaneseTerm">Tekki</span> (Iron Horse)
 	<ul>
-		<li><span class="japaneseTerm">Shodan</span> (#1)</li>
 		<li><span class="japaneseTerm">Nidan</span> (#2)</li>
+		<li><span class="japaneseTerm">Sandan</span> (#3)</li>
 		</ul>
 	
 	<span class="japaneseTerm">Bassai Sho</span> (Storm a Fortress - Minor)<br />
