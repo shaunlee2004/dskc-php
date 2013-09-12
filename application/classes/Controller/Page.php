@@ -20,7 +20,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$full_version_name .= '('.$config['version']['released'].')';
 				$this->pageData['full_version_name'] = $full_version_name;
 				
-				$this->template->content = View::factory ( 'template\pageTemplate', $this->pageData );
+				$this->template->content = View::factory ( 'template'.DIRECTORY_SEPARATOR.'pageTemplate', $this->pageData );
 			}
 			
 			public function action_home() {
