@@ -2,8 +2,8 @@
 
 defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 class Controller_Basic extends Controller_Template {
-	public $template = 'template\template';
-	
+	public $template =  'template/template';
+		
 	/**
 	 * The before() method is called before your controller action.
 	 * In our template controller we override this method so that we can
@@ -13,6 +13,7 @@ class Controller_Basic extends Controller_Template {
 	public function before() {
 		parent::before ();
 		
+		$template = 'template' . DIRECTORY_SEPARATOR . 'template';
 		if ($this->auto_render) {
 			// Initialize empty values
 			$this->template->title = '';
@@ -30,6 +31,8 @@ class Controller_Basic extends Controller_Template {
 	 * is rendered.
 	 */
 	public function after() {
+		$template = 'template' . DIRECTORY_SEPARATOR . 'template';
+		
 		if ($this->auto_render) {
 			$styles = array (
 					'/media/css/style.css' => 'screen',
