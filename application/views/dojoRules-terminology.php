@@ -5,7 +5,7 @@
 	</dl>
 </div>
 <br/>
-<table class="topAligned bordered" style="width: 80%;">
+<table class="topAligned bordered" style="width: 100%;">
 	<tr>
 		<td>
 			<div class="title">Numbers</div> <span class="japaneseTerm"> Ichi:</span>

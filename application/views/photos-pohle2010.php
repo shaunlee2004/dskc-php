@@ -21,7 +21,7 @@
 	) )?>
 	<div class="caption">No one escapes Sensei Pohle's awareness</div>
 </div>
-<div class="paddedImage" style="float: right;">
+<div class="paddedImage" style="float: left;">
 	<?php
 	echo HTML::image ( "/media/img/Pohle-classatattention-375x241.jpg", array (
 			'width' => 375,

@@ -4,7 +4,7 @@
 		<div class="subtitle" style="text-align: center;" >Niju Kun</div>
 	</div>
 
-<ol style="width: 840px;"><!-- DANGER: this will need to change if menu size changes -->
+<ol style="width: 855px;"><!-- DANGER: this will need to change if menu size changes -->
 		<li><span class="japaneseTerm">Dojo nomino karate to omou na.</span><br />Karate
 			is not only for dojo training.</li>
 		<li><span class="japaneseTerm">Karate-do wa rei ni hajimari, rei ni

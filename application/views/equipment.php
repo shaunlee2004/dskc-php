@@ -17,24 +17,8 @@
 	) )?>
 	<div class="caption">Mouthguard</div>
 </div>
-<div style="float: left; position: relative;">
-
-	<div class="paddedImage" style="float: left; position: relative;">
-			<?php
-			echo HTML::image ( "/media/img/karate_belts.jpg" )?>
-		<div class="caption">belts</div>
-	</div>
 <div class="clearfloat"></div>
-	<div class="paddedImage" style="float: left; position: relative;">
-			<?php
-			echo HTML::image ( "/media/img/karate_gi_adult.jpg", array (
-					'height' => 300,
-					'width' => 300 
-			) )?>
-			<div class="caption">Adult/Advanced Karate Uniform (gi)</div>
-	</div>
 
-</div>
 <div class="paddedImage" style="float: left; position: relative;">
 		<?php
 		echo HTML::image ( "/media/img/karate_gi_youth.jpg", array (
@@ -43,4 +27,20 @@
 		) )?>
 	<div class="caption">Youth/Beginner Karate Uniform (gi)</div>
 </div>
+<div class="paddedImage" style="float: left; position: relative;">
+		<?php
+		echo HTML::image ( "/media/img/karate_belts.jpg" )?>
+	<div class="caption">belts</div>
+</div>
+
+<div class="paddedImage" style="float: left; position: relative;">
+	<?php
+	echo HTML::image ( "/media/img/karate_gi_adult.jpg", array (
+			'height' => 275,
+			'width' => 275 
+	) )?>
+	<div class="caption">Adult/Advanced Karate Uniform (gi)</div>
+</div>
+
+
 

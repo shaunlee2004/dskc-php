@@ -22,7 +22,7 @@
 	) )?>
 	<div class="caption">Sensei Sterian Tuluceanu inspects the class<br/>while Sensei Marian Tuluceanu demostrates kamae</div>
 </div>
-<div class="paddedImage" style="float: right;">
+<div class="paddedImage" style="float: left;">
 	<?php
 	echo HTML::image ( "/media/img/Marian_Tuluceanu-541x352.jpg", array (
 			'width' => 541,
