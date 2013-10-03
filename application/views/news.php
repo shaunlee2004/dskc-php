@@ -18,6 +18,7 @@
 	echo HTML::image ( "/media/img/james_lee_fall_festival_2013.jpg" )?>
 	<div class="caption">karate-ka in action</div>
 </div>
+<div class="clearfloat"></div>
 
 <div class="title">Virginia Youth Invitational Tournament</div>
 <div class="subtitle">

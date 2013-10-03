@@ -51,7 +51,10 @@
 <div class="paddedImage" style="float: left; position: relative;">
 
 		<?php
-		echo HTML::image ( "/media/img/shaun_lee.jpg" )?>
+		echo HTML::image ( "/media/img/shaun_lee.jpg", array(
+			'height' => 276,
+			'width' => 228
+		))?>
 		<div class="subtitle">
 		Shaun Lee , 3rd Dan<br />ISKF Instructor Trainee
 	</div>

@@ -88,6 +88,14 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;<?php echo HTML::anchor('http://www.yaguchikarate.com/buy-now.html', 'ISBN: 978-1578334001')?><br/>
 	<?php echo HTML::image("/media/img/book_mind_and_body_like_bullet.jpg", array('height'=> 215, 'width' => 157))?>
 </div>
+<div style="float: left; position: relative; padding: 5px;">
+
+<br/><br/>
+<div class="subtitle">Hidetaka Nishiyama</div>
+	Karate: The art of<br/>&nbsp;&nbsp;&nbsp;&quot;Empty-Hand&quot; Fighting<br />
+	<?php echo HTML::anchor('http://www.amazon.com/Karate-Empty-Hand-Fighting-Hidetaka-Nishiyama/dp/0804816689', 'ISBN: 978-0804816687')?><br/>
+	<?php echo HTML::image("/media/img/book_karate_the_art_of_empty_hand_fighting.jpg", array('height'=> 215, 'width' => 146))?>
+</div>
 
 <div style="float: left; position: relative; padding: 5px;">
 	<div class="subtitle">Various</div>
@@ -99,13 +107,7 @@
 	<?php echo HTML::image("/media/img/dvd_shotokan_masters_iskf_master_camp_training.jpg", array('height'=> 215, 'width' => 152))?>
 </div>
 
-<div style="float: left; position: relative; padding: 5px;">
-<br/><br/>
-<div class="subtitle">Hidetaka Nishiyama</div>
-	Karate: The art of<br/>&nbsp;&nbsp;&nbsp;&quot;Empty-Hand&quot; Fighting<br />
-	<?php echo HTML::anchor('http://www.amazon.com/Karate-Empty-Hand-Fighting-Hidetaka-Nishiyama/dp/0804816689', 'ISBN: 978-0804816687')?><br/>
-	<?php echo HTML::image("/media/img/book_karate_the_art_of_empty_hand_fighting.jpg", array('height'=> 215, 'width' => 146))?>
-</div>
+
 
 
 <div style="float: left; position: relative; padding: 5px;">
