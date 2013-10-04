@@ -8,7 +8,8 @@
 	
 		<p>
 		Kyu exam<br /> Oct 19, 2013<br />
-				<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?>
+				<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?><br/>
+				<?php echo HTML::file_anchor("/media/files/kyu_exam_20131019.pdf", "memorandum")?>
 				</p>
 	<p>
 	
