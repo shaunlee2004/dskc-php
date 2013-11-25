@@ -1,6 +1,6 @@
 <div class="title">Dan Exam</div>
 <div class="subtitle">
-	Honbu Dojo<br />Philadelphia, PA<br />November 22,
+	Honbu Dojo<br />Philadelphia, PA<br />November 23,
 	2013
 </div>
 <p>
