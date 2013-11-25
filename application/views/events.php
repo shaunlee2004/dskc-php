@@ -1,27 +1,9 @@
 <div style="float: left; padding: 5px;">
-	<p>
-		East Coast Fall Camp<br /> 26th Anniversary<br /> Sept 13-15th, 2013<br />
-				<?php echo HTML::anchor("https://maps.google.com/maps?daddr=249+Camp+Green+Lane+Rd,+Green+Lane,+PA&t=m", "Camp Green Lane, PA")?><br />
-		<?php echo HTML::anchor("http://www.iskf.com/images/2013%20EC%20FC%20BROCHUA.pdf", "Registration Packet")?>
-				</p>
-	<p>
 	
 		<p>
-		Kyu exam<br /> Oct 19, 2013<br />
+		Kyu exam<br /> Jan 11, 2013<br />
 				<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?><br/>
-				<?php echo HTML::file_anchor("/media/files/kyu_exam_20131019.pdf", "memorandum")?>
 				</p>
-	<p>
-	
-	
-	<p>
-		National Tournament<br /> 35th Anniversary<br /> Nov 16-17th, 2013<br />
-				<?php echo HTML::anchor("https://maps.google.com/maps?q=151+West+Fifth+Street+Cincinnati,+Ohio+45202&t=m", "Hyatt Regency Cincinatti")?><br />
-		<?php echo HTML::anchor("http://midamericaiskf.com/2013ISKFNationals.htm", "Information")?>
-				</p>
-	<p>
-<?php echo HTML::anchor("http://www.iskf.com/iskf%20headquarters.html", "Other ISKF Events")?>
-</p>
 
 </div>
 <div class="title">Tournaments</div>

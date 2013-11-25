@@ -6,8 +6,8 @@ return array (
 		'environment' => strtoupper('DEV'),
 		'base_url' => '',
 		'version' => array (
-				'name' => '2.00.04',
-				'released' => '10/02/2013' 
+				'name' => '2.00.05',
+				'released' => '11/23/2013' 
 		), 
 );
 ?>

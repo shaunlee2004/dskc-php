@@ -1,3 +1,60 @@
+<div class="title">Dan Exam</div>
+<div class="subtitle">
+	Honbu Dojo<br />Philadelphia, PA<br />November 22,
+	2013
+</div>
+<p>
+Results<br/>
+Coco Vigilar: Nidan<br/>
+Paolo Esguerra: Nidan<br/>
+<br/>
+Congratulations and keep training!
+</p>
+
+
+<div class="title">ISKF National Tournament</div>
+
+<div class="subtitle">
+	Hyatt Regency<br />Cincinatti, OH<br />November 16 & 17,
+	2013
+</div>
+<p>
+	Dominion Shotokan Karate Club is proud to acknowledge the accomplishments of four of its students at the 35th Annual ISKF National tournament.  In addition we wish to recognize the success of former student, Breanna Buerckholtz.
+</p>
+
+<div>
+<div style="float: left;">
+Coco Vigilar<br/>
+Paolo Esguerra<br/>
+Josh Miller<br/>
+Shaun Lee<br/>
+Breanna Buerckholtz<br/>
+</div>
+<div style="float: left; padding-left: 5px;">
+Youth Female 16-17 Kata-Gold, Kumite-Gold<br/>
+Youth Male 14-15 Kata-Gold, Kumite-Bronze<br/>
+Youth Male 14-15 Kata-Bronze<br/>
+Mens Black Belt Kata and Kumite, and Tournament Judge<br/>
+Womens Brown Belt Kata-Gold, Kumite-Silver<br/>
+</div>
+</div>
+
+<div class="clearfloat"></div>
+
+<div class="paddedImage" style="float: left;">
+	<?php
+	echo HTML::image ( "/media/img/paolo_coco_josh_nationals2013.jpg" )?>
+	<div class="caption">
+		Paolo, Coco, and Josh
+	</div>
+</div>
+<div class="paddedImage" style="float: left;">
+	<?php
+	echo HTML::image ( "/media/img/breanna_nationals2013.jpg" )?>
+	<div class="caption">Breanna Buerckholtz</div>
+</div>
+<div class="clearfloat"></div>
+
 <div class="title">Fall Festival</div>
 <div class="subtitle">
 	James Lee Community Center<br />Falls Church, VA<br />September 28,
