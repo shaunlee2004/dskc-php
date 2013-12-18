@@ -115,7 +115,7 @@ else
 	 * If no source is specified, the URI will be automatically detected.
 	 */
 	echo Request::factory(TRUE, array(), FALSE)
-		->execute()
+		->execute() //DEV: C:\xampp\apache\conf\httpd.conf must be: DocumentRoot "C:/xampp/htdocs/dskc"
 		->send_headers(TRUE)
 		->body();
 }
