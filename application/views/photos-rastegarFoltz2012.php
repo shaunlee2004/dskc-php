@@ -1,6 +1,11 @@
-<div class="title">
-	Senseis Pedram Rastegar, 4th dan<br />and Joe Foltz, 3rd dan
-</div>
+<span class="title">
+	Senseis Pedram Rastegar, 4th dan
+	</span>
+ (2012 World Shotocup Men's Kumite Champion)<br />
+<span class="title">
+ and Joe Foltz, 3rd dan
+</span>
+ (2013 US National Men's Kumite Champion)<br />
 <div class="subtitle">
 	Bailey's Community Center<br />September 22, 2012
 </div>
