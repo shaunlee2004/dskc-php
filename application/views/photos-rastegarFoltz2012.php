@@ -1,9 +1,9 @@
 <span class="title">
-	Senseis Pedram Rastegar, 4th dan
+	Sensei Pedram Rastegar, 4th dan
 	</span>
  (2012 World Shotocup Men's Kumite Champion)<br />
 <span class="title">
- and Joe Foltz, 3rd dan
+ and Sensei Joe Foltz, 3rd dan
 </span>
  (2013 US National Men's Kumite Champion)<br />
 <div class="subtitle">

@@ -6,19 +6,18 @@
 		Jan 11, 2013<br />
 		<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?><br/>
 		<?php echo HTML::file_anchor("/media/files/kyu_exam_with_amin_20140111.pdf", "memorandum")?>		</p>
-
-		<p>
-		48th Annual ISKF Master Camp<br />
-		and Goodwill Tournament<br />
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=Camp+Green+Lane&gl=us&hq=camp+green+lane,+pa&t=m", "Camp Green Lane, PA")?><br/>
-		June 6 - 13, 2014<br />
-		<?php echo HTML::anchor("http://iskf.com/images/2014%20MC%20bc.pdf", "brochure")?>		</p>
 		
 		<p>
 		51st ECSKA Championships<br />
 		April 12, 2014<br />
 		Hagerstown, MD		</p>
 		
+		<p>
+		48th Annual ISKF Master Camp<br />
+		and Goodwill Tournament<br />
+		<?php echo HTML::anchor("https://maps.google.com/maps?q=Camp+Green+Lane&gl=us&hq=camp+green+lane,+pa&t=m", "Camp Green Lane, PA")?><br/>
+		June 6 - 13, 2014<br />
+		<?php echo HTML::anchor("http://iskf.com/images/2014%20MC%20bc.pdf", "brochure")?>		</p>
 		
 		</div>
 
