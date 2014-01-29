@@ -1,16 +1,18 @@
 <div style="float: left; padding: 5px;">
 	
 		<p>
-		Clinic and Kyu exam<br />
-		Sensei Najib Amin, 8th Dan<br/>
-		Jan 11, 2013<br />
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?><br/>
-		<?php echo HTML::file_anchor("/media/files/kyu_exam_with_amin_20140111.pdf", "memorandum")?>		</p>
-		
-		<p>
 		51st ECSKA Championships<br />
 		April 12, 2014<br />
-		Hagerstown, MD		</p>
+		Hagerstown, MD<br/>
+		<?php echo HTML::anchor("http://51ecska.com/uploads/3/3/7/5/3375308/51ecska_packet12192013_r1.pdf", "Tournament Packet") ?></p>
+
+		<p>
+		Kyu exam<br />
+		April 19, 2014<br />
+		<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?>
+		</p>
+	
+		
 		
 		<p>
 		48th Annual ISKF Master Camp<br />

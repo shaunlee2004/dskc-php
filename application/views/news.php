@@ -1,3 +1,23 @@
+<div class="title">Kyu Exam</div>
+<div class="subtitle">
+	Bailey's Community Center<br />Falls Churc, VA<br />January 11,
+	2014
+</div>
+<p>
+
+<div class="paddedImage" style="float: left;">
+	<?php
+	echo HTML::image ( "/media/img/amin-examiners.jpg" )?>
+	<div class="caption">
+		Examiners: Shaun Lee (left), Paul Willoughby, Najib Amin, Coco Vigilar, Eileen Chotiner, Ushan Abeysekara, Steven Majors (not pictured)	
+	</div>
+</div>
+
+</p>
+
+
+
+
 <div class="title">Dan Exam</div>
 <div class="subtitle">
 	Honbu Dojo<br />Philadelphia, PA<br />November 23,
@@ -76,7 +96,7 @@ Womens Brown Belt Kata-Gold, Kumite-Silver<br/>
 	<div class="caption">karate-ka in action</div>
 </div>
 <div class="clearfloat"></div>
-
+<!-- 
 <div class="title">Virginia Youth Invitational Tournament</div>
 <div class="subtitle">
 	Newport News<br />December 8, 2012
@@ -108,3 +128,4 @@ Womens Brown Belt Kata-Gold, Kumite-Silver<br/>
 	<div class="caption">Director Chon Lacey (back-left, red) leading
 		cleanup efforts with students</div>
 </div>
+-->
