@@ -23,8 +23,9 @@
 			<li><?php echo Html::anchor('page/news', '<span>News</span>');?></li>
 			<li><?php echo Html::anchor('page/events', '<span>Events</span>');?></li>
 			<li class='active has-sub'>
-				<?php echo Html::anchor('page/photosTuluceanu2013', '<span>Event Photos</span>');?>
+				<?php echo Html::anchor('page/photosAmin2014', '<span>Event Photos</span>');?>
 				<ul>
+					<li><?php echo Html::anchor('page/photosAmin2014', '<span>Amin 2013</span>');?></li>
 					<li><?php echo Html::anchor('page/photosTuluceanu2013', '<span>Tuluceanu 2013</span>');?></li>
 					<li><?php echo Html::anchor('page/photosRastegarFoltz2012', '<span>Rastegar &amp;<br/>&nbsp;&nbsp;&nbsp;Foltz 2012</span>');?></li>
 					<li><?php echo Html::anchor('page/photosHoffman2011', '<span>Hoffman 2011</span>');?></li>
