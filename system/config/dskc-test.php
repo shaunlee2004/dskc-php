@@ -7,7 +7,7 @@ return array (
 		'base_url' => 'http://test.dominionshotokan.com',
 		'version' => array (
 				'name' => '2.00.10',
-				'released' => '01/29/2013' 
+				'released' => '01/29/2014' 
 		), 
 );
 ?>
