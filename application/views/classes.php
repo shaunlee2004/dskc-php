@@ -2,17 +2,12 @@
 	two locations:</div>
 <table class="topAligned">
 	<tr>
-		<td>Bailey's Community Center<br /> 5920 Summers Lane<br> Falls
-			Church, VA 22041<br> (703) 931-7027<br /> <br /> <a
-			href="https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m">
-			<?php echo HTML::image ( "/media/img/googleMaps.jpg", array (
-				'width' => 80,
-				'height' => 40 
-			))?>
-			</a>
+		<td>Bailey's Community Center<br /> <a
+			href="https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m">5920 Summers Lane<br> Falls
+			Church, VA 22041</a><br> (703) 931-7027<br /> <br /> 
 		</td>
 		<td>Monday, Wednesday and Friday<br> 4:00 pm to 6:00 pm<br> <br>
-			Saturday (Adults and Advanced students only)<br> 10:00 am to 12:00 pm
+			Saturday (Advanced students only)<br> 10:00 am to 12:00 pm
 			<br />
 		</td>
 		<td>
@@ -25,14 +20,9 @@
 		</td>
 	</tr>
 	<tr>
-		<td>James Lee Community Center<br> 2855-A Annandale Road<br> Falls
-			Church, VA 22042<br> (703) 534-3387 x200/201<br /> <br /> <a
-			href="https://maps.google.com/maps?q=James+Lee+Community+Center+2855-A+Annandale+Road+Falls+Church,+VA+22042&t=m">
-				<?php echo HTML::image ( "/media/img/googleMaps.jpg", array (
-					'width' => 80,
-					'height' => 40 
-				))?>
-			</a>
+		<td>James Lee Community Center<br> <a
+			href="https://maps.google.com/maps?q=James+Lee+Community+Center+2855-A+Annandale+Road+Falls+Church,+VA+22042&t=m">2855-A Annandale Road<br> Falls
+			Church, VA 22042</a><br> (703) 534-3387 x200/201<br /> <br /> 
 		</td>
 		<td>Tuesday and Thursday<br>4:00 pm to 6:00 pm (children)<br>6:00 pm
 			to 7:30 pm (adults)<br>7:30 pm to 8:00 pm (advanced)<br> <br>Metro-accessible
@@ -51,43 +41,3 @@
 <p style="color: red; font-weight: bold; text-align: center;">During
 	inclement weather, as long as the facility is
 	open, classes will be held.</p>
-<table class="bordered topAligned">
-
-	<tr>
-		<th>Sunday</th>
-		<th>Monday</th>
-		<th>Tuesday</th>
-		<th>Wednesday</th>
-		<th>Thursday</th>
-		<th>Friday</th>
-		<th>Saturday</th>
-	</tr>
-	<tr>
-		<td rowspan="2">No Classes</td>
-		<td style="color: #0099FF;">Bailey's Community <br />Center<br>4 pm - 6 pm
-		</td>
-		<td style="color: #D4A84B;">James Lee <br />Community Center<br>4 pm - 6 pm
-		</td>
-		<td style="color: #0099FF;">Bailey's Community <br />Center<br>4pm - 6 pm
-		</td>
-		<td style="color: #D4A84B;">James Lee <br />Community Center<br>4 pm - 6 pm
-		</td>
-		<td style="color: #0099FF;">Bailey's Community <br />Center<br>4pm - 6 pm
-		</td>
-		<td rowspan="2" style="color: #0099FF;">Bailey's Community<br /> Center<br>10:15 am - 12 pm<br />Advanced
-			students <br />(brown and black belt)
-		</td>
-	</tr>
-	<tr>
-		<td>&nbsp;<!--$emptyText$--></td>
-		<td style="color: #D4A84B;">James Lee <br />Community Center<br>6:30 pm - 8 pm <br />(Adults)<br>
-			<br>7:30-8 pm: <br />Advanced Kata/Kumite
-		</td>
-		<td>&nbsp;<!--$emptyText$--></td>
-		<td style="color: #D4A84B;">James Lee <br />Community Center<br>6:30 pm - 8 pm <br />(Adults)<br>
-			<br>7:30-8 pm: <br />Advanced Kata/Kumite
-		</td>
-		<td>&nbsp;<!--$emptyText$--></td>
-	</tr>
-</table>
-<br/>

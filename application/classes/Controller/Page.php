@@ -51,6 +51,13 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['mainContent'] = View::factory ( 'classes' );
 				$this->fill_template();
 			}
+		public function action_schedule() {
+				$this->template->title = __ ( 'Schedule' );
+				$this->pageData['headerTitle'] = 'Schedule';
+				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
+				$this->pageData['mainContent'] = View::factory ( 'schedule' );
+				$this->fill_template();
+			}
 			public function action_dojoRules() {
 				$this->template->title = __ ( 'Dojo Rules - Introduction' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Introduction';
@@ -199,6 +206,5 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['mainContent'] = View::factory ('contactUs');
 				$this->fill_template();
 			}
-			
 
 		} 
