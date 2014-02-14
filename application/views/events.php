@@ -4,7 +4,7 @@
 		51st ECSKA Championships<br />
 		April 12, 2014<br />
 		Hagerstown, MD<br/>
-		<?php echo HTML::anchor("http://51ecska.com/uploads/3/3/7/5/3375308/51ecska_packet12192013_r1.pdf", "Tournament Packet") ?></p>
+		<?php echo HTML::file_anchor("/media/files/east_coast_20140412.pdf", "Memorandum") ?></p>
 
 		<p>
 		Kyu exam<br />
