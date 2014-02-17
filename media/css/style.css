@@ -68,7 +68,24 @@ ol li {
 
 #headerBuffer {
 	height: 70px;
-	/*border: 1px solid red; */
+}
+
+#headerBuffer .banner {
+	position: absolute;
+	width: 750px;
+	left: 125px;
+	height: 70px;
+	font-family: Arial;
+	font-size: 24px;
+	line-height: 24px;
+	text-align: center;	
+}
+
+#headerBuffer .red {
+	background: url('/media/img/red_paper_tear.gif') no-repeat;
+}
+#headerBuffer .yellow {
+	background: url('/media/img/yellow_paper_tear.gif') no-repeat;
 }
 
 #header {
