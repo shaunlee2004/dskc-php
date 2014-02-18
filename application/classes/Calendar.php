@@ -34,7 +34,8 @@ class Calendar {
 				$endTime = new DateTime($when->endTime);
 				if($startTime->add(new DateInterval('P1D')) == $endTime) {
 					$event_found = true;
-					$return = (new DateTime($when->startTime))->format('D M d, Y') . ' ' . $event->title->text;
+					$date = new DateTime($when->startTime);
+					$return = $date->format('D M d, Y') . ' ' . $event->title->text;
 				}
 				if($event_found) break;
 			}
