@@ -36,7 +36,8 @@ class Controller_Basic extends Controller_Template {
 		if ($this->auto_render) {
 			$styles = array (
 					'/media/css/style.css' => 'screen',
-					'/media/css/menu.css' => 'screen'
+					'/media/css/menu.css' => 'screen',
+					'/media/css/messages.css' => 'screen'
 						
 			);
 			
