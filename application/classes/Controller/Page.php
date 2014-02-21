@@ -207,7 +207,16 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->template->title = __ ( 'Contacting DSKC' );
 				$this->pageData['headerTitle'] = 'Contacting DSKC';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
-				$this->pageData['mainContent'] = View::factory ('contactUs');
+								
+				$contact_form = ContactForm::create();
+				if($_POST){
+					$config = Kohana::$config->load('dskc');
+					$form_errors = ContactForm::verify_form($_POST, $config['contact_us']['mail_admin'], $config['contact_us']['mail_recipient']);
+				}
+				
+				$this->pageData['mainContent'] = View::factory ('contactUs')
+					->bind("contact_form", $contact_form)
+					->bind("form_errors", $form_errors);
 				$this->fill_template();
 			}
 
