@@ -15,12 +15,13 @@ class Calendar {
 		//setup calendar query
 		$service = new Zend_Gdata_Calendar();
 		$query = $service->newEventQuery();
-		$query->setUser($calendar_url);
-		$query->setVisibility('public');
-		$query->setProjection('full');
-		$query->setStartMin(Date('Y-n-j'));
-		$query->setStartMax(Date('Y-n-j', strtotime("+" . $outlay . "days")));
-		$query->setOrderby('startTime');
+		$query->setUser($calendar_url)
+			->setVisibility('public')
+			->setProjection('full')
+			->setStartMin(Date('Y-n-j'))
+			->setStartMax(Date('Y-n-j', strtotime("+" . $outlay . "days")))
+			->setOrderby('startTime')
+			->setSortOrder('ascending');
 		
 		//query calendar
 		try { $eventFeed = $service->getCalendarEventFeed($query); }
@@ -35,7 +36,7 @@ class Calendar {
 				if($startTime->add(new DateInterval('P1D')) == $endTime) {
 					$event_found = true;
 					$date = new DateTime($when->startTime);
-					$return = $date->format('D M d, Y') . ' ' . $event->title->text;
+					$return .= $date->format('D M d, Y') . ' ' . $event->title->text . "<br/>";
 				}
 				if($event_found) break;
 			}
