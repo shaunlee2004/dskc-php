@@ -1,10 +1,25 @@
 <div style="float: left; padding: 5px;">
 	
-		<p>
+<p>
+		Hotel group rate cut-off<br/>
+		March 11, 2014</br>
+		<?php echo HTML::anchor("http://hamptoninn3.hilton.com/en/hotels/maryland/hampton-inn-hagerstown-HGRMDHX/index.html", "Hampton Inn Hagerstown") ?><br/>
+		1716 Dual Highway<br/>
+Hagerstown, MD 21740-6635<br/>
+Telephone 301-739-6100<br/>
+Group Rate: $69/night, two queen, full breakfast<br/>
+Group Name: East Coast Shotokan Karate
+
+</p>
+
+<p>
 		51st ECSKA Championships<br />
 		April 12, 2014<br />
 		Hagerstown, MD<br/>
-		<?php echo HTML::file_anchor("/media/files/east_coast_20140412.pdf", "Memorandum") ?></p>
+		<?php echo HTML::file_anchor("/media/files/east_coast_20140412.pdf", "Memorandum") ?><br/>
+		<?php echo HTML::anchor("http://51ecska.com", "Tournament webpage") ?><br/>
+		<br/>
+		</p>
 
 		<p>
 		Kyu exam<br />
