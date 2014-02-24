@@ -55,11 +55,11 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['mainContent'] = View::factory ( 'classes' );
 				$this->fill_template();
 			}
-		public function action_schedule() {
-				$this->template->title = __ ( 'Schedule' );
-				$this->pageData['headerTitle'] = 'Schedule';
+		public function action_calendar() {
+				$this->template->title = __ ( 'Calendar' );
+				$this->pageData['headerTitle'] = 'Calendar';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
-				$this->pageData['mainContent'] = View::factory ( 'schedule' );
+				$this->pageData['mainContent'] = View::factory ( 'calendar' );
 				$this->fill_template();
 			}
 			public function action_dojoRules() {

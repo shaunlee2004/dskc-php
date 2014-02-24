@@ -5,7 +5,7 @@
 			<li><?php echo Html::anchor('page/home', '<span>Home</span>');?></li>
 			<li><?php echo Html::anchor('page/instructors', '<span>Instructors</span>');?></li>
 			<li><?php echo Html::anchor('page/classes', '<span>Classes</span>');?></li>
-			<li><?php echo Html::anchor('page/schedule', '<span>Schedule</span>');?></li>
+			<li><?php echo Html::anchor('page/calendar', '<span>Calendar</span>');?></li>
 			<li class='active has-sub'>
 				<?php echo Html::anchor('page/dojoRules', '<span>Dojo Rules</span>');?>
 				<ul>
