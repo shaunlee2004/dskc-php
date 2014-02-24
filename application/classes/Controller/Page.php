@@ -7,7 +7,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 					'headerSubtitle' => 'default header subtitle',
 					'mainContent' => 'default main content',
 					'full_version_name' => 'default full version name',
-					'banner_message' => '',
+					'banner' => array(),
 					'isLogoWrapping' => true
 			);
 
@@ -21,7 +21,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$full_version_name .= '('.$config['version']['released'].')';
 				$this->pageData['full_version_name'] = $full_version_name;
 				
-				$this->pageData['banner_message'] = Calendar::banner_message($config['calendar']['url'], $config['calendar']['banner_outlay']);
+				$this->pageData['banner'] = Calendar::banner($config['calendar']['url'], $config['calendar']['banner_outlay']);
 				
 				//build page
 				$this->template->content = View::factory ( 'template'.DIRECTORY_SEPARATOR.'pageTemplate', $this->pageData );

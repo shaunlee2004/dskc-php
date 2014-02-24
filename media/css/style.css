@@ -18,6 +18,7 @@ a:hover {
 	color: #FF0000;
 }
 
+
 table.bordered {
 	border: 1px solid gray;
 }
@@ -81,12 +82,27 @@ ol li {
 	text-align: center;	
 }
 
+
 #headerBuffer .red {
 	background: url('/media/img/red_paper_tear.gif') no-repeat;
 }
 #headerBuffer .yellow {
 	background: url('/media/img/yellow_paper_tear.gif') no-repeat;
 }
+
+
+#headerBuffer a:link .banner {
+	color: #000000;
+}
+
+#headerBuffer a:visited .banner {
+	color: #000000;
+}
+
+#headerBuffer a:hover .banner {
+	color: #FFFFFF;
+}
+
 
 #header {
 	/* border: 1px solid red; */

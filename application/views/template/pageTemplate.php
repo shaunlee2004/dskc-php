@@ -4,7 +4,7 @@
 	echo View::factory ( "template".DIRECTORY_SEPARATOR."header" )
 		->set ( 'headerTitle', $headerTitle )
 		->set ( 'headerSubtitle', $headerSubtitle )
-		->set ( 'banner_message', $banner_message);
+		->set ( 'banner', $banner);
 	?>
 	
 	<?php include Kohana::find_file("views", "template".DIRECTORY_SEPARATOR."menu");?>

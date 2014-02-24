@@ -1,6 +1,6 @@
 <div id="headerContainer">
 	<div id="headerBuffer">
-		<?php if(!empty($banner_message)) echo '<div class="banner red"><br/>' . $banner_message . '</div>';?>
+		<?php if(!empty($banner)) echo HTML::anchor($banner['href'], '<div class="banner red"><br/>' . $banner['message'] . '</div>'); ?>
 	</div>
 	<div id="header">
 		<div class="logo"></div>
