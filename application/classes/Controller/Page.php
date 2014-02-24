@@ -209,9 +209,12 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 								
 				$contact_form = ContactForm::create();
+
 				if($_POST){
 					$config = Kohana::$config->load('dskc');
-					$form_errors = ContactForm::verify_form($_POST, $config['contact_us']['mail_admin'], $config['contact_us']['mail_recipient']);
+					if(!$form_errors = ContactForm::verify_form($_POST)){
+						ContactForm::send_mail($_POST, $config['contact_us']['mail_admin'], $config['contact_us']['mail_recipient']);
+					}
 				}
 				
 				$this->pageData['mainContent'] = View::factory ('contactUs')

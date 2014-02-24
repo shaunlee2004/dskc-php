@@ -34,7 +34,7 @@ class ContactForm {
 			
 		$mail = new Zend_Mail();
 		$mail
-			->setFrom($mail_admin, $post->name)
+			->setFrom($mail_admin, $post['name'])
 			->addTo($mail_recipient, $mail_recipient)
 			->setReplyTo($post['email'], $post['email'])
 			->setSubject('Question about DSKC')
