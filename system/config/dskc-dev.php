@@ -12,7 +12,7 @@ return array (
 		'calendar' => array(
 				'url' => 'dominionshotokan@gmail.com',
 				'banner_outlay' => 3
-		) ,
+		),
 		'contact_us' => array(
 			'mail_admin' => 'webmaster@dominionshotokan.com',
 			'mail_recipient' => 'shaunctrlee@yahoo.com',
