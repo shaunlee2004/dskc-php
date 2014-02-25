@@ -3,8 +3,8 @@
 defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 class Calendar {
 	
-	public static function banner_message($calendar_url, $outlay){
-		$return = '';
+	public static function banner($calendar_url, $outlay){
+		$return = array();
 		
 		// load Google Calendar classes
 		Zend_Loader::loadClass('Zend_Gdata');
@@ -30,13 +30,15 @@ class Calendar {
 		//determine banner news
 		$event_found = false;
 		foreach ($eventFeed as $event) {
+			
 			foreach ($event->when as $when) {
 				$startTime = new DateTime($when->startTime);
 				$endTime = new DateTime($when->endTime);
 				if($startTime->add(new DateInterval('P1D')) == $endTime) {
 					$event_found = true;
 					$date = new DateTime($when->startTime);
-					$return .= $date->format('D M d, Y') . ' ' . $event->title->text . "<br/>";
+					$return['message'] = $date->format('D M d, Y') . ' ' . $event->title->text;
+					$return['href'] = $event->link[0]->gethref();
 				}
 				if($event_found) break;
 			}
