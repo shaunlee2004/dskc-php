@@ -151,3 +151,14 @@ if ($path = Kohana::find_file("vendor", "Zend".DIRECTORY_SEPARATOR."Loader"))
 	require_once 'Zend/Loader/Autoloader.php';
 	Zend_Loader_Autoloader::getInstance();
 }
+
+/**
+ * Enable wordpress
+ */
+if ($path = Url::site("wordpress".DIRECTORY_SEPARATOR."wp-load"))
+{
+	ini_set('include_path',
+	ini_get('include_path').PATH_SEPARATOR.dirname(dirname($path)));
+
+	require_once 'wordpress/wp-load.php';
+}
