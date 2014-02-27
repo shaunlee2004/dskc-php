@@ -28,91 +28,91 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			}
 			
 			public function action_home() {
-				$this->template->title = __ ( 'Welcome To Dominion Shotokan Karate Club' );
+				$this->template->title =  __t( 'Welcome To Dominion Shotokan Karate Club' );
 				$this->pageData['headerTitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['headerSubtitle'] = 'Traditional Shotokan Karate Instruction';
 				$this->pageData['mainContent'] = View::factory ('home');		
 				$this->fill_template();
 			}
 			public function action_news() {
-				$this->template->title = __ ( 'News' );
+				$this->template->title = __t( 'News' );
 				$this->pageData['headerTitle'] = 'News';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ( 'news' );
 				$this->fill_template();
 			}
 			public function action_instructors() {
-				$this->template->title = __ ( 'Instructors' );
+				$this->template->title = __t( 'Instructors' );
 				$this->pageData['headerTitle'] = 'Instructors';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ( 'instructors' );
 				$this->fill_template();
 			}
 			public function action_classes() {
-				$this->template->title = __ ( 'Classes' );
+				$this->template->title = __t( 'Classes' );
 				$this->pageData['headerTitle'] = 'Classes';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ( 'classes' );
 				$this->fill_template();
 			}
 		public function action_calendar() {
-				$this->template->title = __ ( 'Calendar' );
+				$this->template->title = __t( 'Calendar' );
 				$this->pageData['headerTitle'] = 'Calendar';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ( 'calendar' );
 				$this->fill_template();
 			}
 			public function action_dojoRules() {
-				$this->template->title = __ ( 'Dojo Rules - Introduction' );
+				$this->template->title = __t( 'Dojo Rules - Introduction' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Introduction';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-introduction');
 				$this->fill_template();
 			}
 			public function action_dojoRulesFaqs() {
-				$this->template->title = __ ( 'Dojo Rules - FAQs' );
+				$this->template->title = __t( 'Dojo Rules - FAQs' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - FAQs';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-faqs');
 				$this->fill_template();
 			}
 			public function action_dojoRulesEtiquette() {
-				$this->template->title = __ ( 'Dojo Rules - Etiquette' );
+				$this->template->title = __t( 'Dojo Rules - Etiquette' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Etiquette';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-etiquette');
 				$this->fill_template();
 			}
 			public function action_dojoRulesProtocols() {
-				$this->template->title = __ ( 'Dojo Rules - Protocols' );
+				$this->template->title = __t( 'Dojo Rules - Protocols' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Protocols';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-protocols');
 				$this->fill_template();
 			}
 			public function action_dojoRulesRanks() {
-				$this->template->title = __ ( 'Dojo Rules - Ranks' );
+				$this->template->title = __t( 'Dojo Rules - Ranks' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Ranks';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-ranks');
 				$this->fill_template();
 			}
 			public function action_dojoRulesEvents() {
-				$this->template->title = __ ( 'Dojo Rules - Special Trainings' );
+				$this->template->title = __t( 'Dojo Rules - Special Trainings' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Special Trainings';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-events');
 				$this->fill_template();
 			}
 			public function action_dojoRulesTerminology() {
-				$this->template->title = __ ( 'Dojo Rules - Terminology' );
+				$this->template->title = __t( 'Dojo Rules - Terminology' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Terminology';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-terminology');
 				$this->fill_template();
 			}
 			public function action_dojoRulesKata() {
-				$this->template->title = __ ( 'Dojo Rules - Shotokan Kata' );
+				$this->template->title = __t( 'Dojo Rules - Shotokan Kata' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Shotokan Kata';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-shotokanKata');
@@ -120,7 +120,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->fill_template();
 			}
 			public function action_dojoRulesDojoKun() {
-				$this->template->title = __ ( 'Dojo Rules - Dojo Kun' );
+				$this->template->title = __t( 'Dojo Rules - Dojo Kun' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Dojo Kun';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-dojoKun');
@@ -128,7 +128,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			}
 			public function action_dojoRulesNijuKun() {
 
-				$this->template->title = __ ( 'Dojo Rules - Niju Kun' );
+				$this->template->title = __t( 'Dojo Rules - Niju Kun' );
 				$this->pageData['headerTitle'] = 'Dojo Rules - Niju Kun';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('dojoRules-nijuKun');
@@ -136,7 +136,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->fill_template();
 			}
 			public function action_events() {
-				$this->template->title = __ ( 'Events' );
+				$this->template->title = __t( 'Events' );
 				$this->pageData['headerTitle'] = 'Events';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('events');
@@ -144,7 +144,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			}
 			public function action_photosAmin2014() {
 			
-				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->template->title = __t( 'Photos from DSKC Events' );
 				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('photos-amin2014');
@@ -152,35 +152,35 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			}				
 			public function action_photosTuluceanu2013() {
 			
-				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->template->title = __t( 'Photos from DSKC Events' );
 				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('photos-tuluceanu2013');
 				$this->fill_template();
 			}				
 			public function action_photosRastegarFoltz2012() {
-				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->template->title = __t( 'Photos from DSKC Events' );
 				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('photos-rastegarFoltz2012');
 				$this->fill_template();
 			}
 			public function action_photosHoffman2011() {
-				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->template->title = __t( 'Photos from DSKC Events' );
 				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('photos-hoffman2011');
 				$this->fill_template();
 			}
 			public function action_photosPohle2010() {
-				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->template->title = __t( 'Photos from DSKC Events' );
 				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('photos-pohle2010');
 				$this->fill_template();
 			}
 			public function action_photosMaeshima2009() {
-				$this->template->title = __ ( 'Photos from DSKC Events' );
+				$this->template->title = __t( 'Photos from DSKC Events' );
 				$this->pageData['headerTitle'] = 'Photos from DSKC Events';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('photos-maeshima2009');
@@ -188,7 +188,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			}
 			public function action_equipment() {
 			
-				$this->template->title = __ ( 'Equipment' );
+				$this->template->title = __t( 'Equipment' );
 				$this->pageData['headerTitle'] = 'Equipment';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('equipment');
@@ -196,7 +196,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 			}				
 			public function action_resources() {
 
-				$this->template->title = __ ( 'Resources' );
+				$this->template->title = __t( 'Resources' );
 				$this->pageData['headerTitle'] = 'Resources';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 				$this->pageData['mainContent'] = View::factory ('resources');
@@ -204,7 +204,7 @@ defined ( 'SYSPATH' ) or die ( 'No direct script access.' );
 				$this->fill_template();
 			}
 			public function action_contactUs() {
-				$this->template->title = __ ( 'Contacting DSKC' );
+				$this->template->title = __t( 'Contacting DSKC' );
 				$this->pageData['headerTitle'] = 'Contacting DSKC';
 				$this->pageData['headerSubtitle'] = 'Dominion Shotokan Karate Club, LLC';
 								
