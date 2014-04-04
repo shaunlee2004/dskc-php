@@ -16,7 +16,7 @@ Group Name: East Coast Shotokan Karate
 		51st ECSKA Championships<br />
 		April 12, 2014<br />
 		Hagerstown, MD<br/>
-		<?php echo HTML::file_anchor("/media/files/east_coast_20140412.pdf", "Memorandum") ?><br/>
+		<?php echo HTML::file_anchor("/media/files/tournament_packet_EC_2014.pdf", "Tournament Packet") ?><br/>
 		<?php echo HTML::anchor("http://51ecska.com", "Tournament webpage") ?><br/>
 		<br/>
 		</p>

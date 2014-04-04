@@ -1,6 +1,63 @@
+<div class="title">51st East Coast Tournament</div>
+<div class="subtitle">
+Hagerstown Community College<br/>
+April 12, 2014
+</div>
+<p>
+<div>
+	<div style="float:right">
+		<?php echo HTML::image("/media/img/hagerston_community_college.jpg")?>
+	</div>
+	<div style="float:left; position: relative; width:425px">
+		Please download a copy of the <?php echo HTML::file_anchor("/media/files/tournament_packet_EC_2014.pdf", "Tournament Packet") ?> with directions and start times for the Tournament. <br/>
+		<br/>
+	
+		<B>CHECKLIST</B><br/>
+		<ul>Membership card
+		<li>Clean uniform with patch</li>
+		<li>Belt</li>
+		<li>Gloves</li>
+		<li>Mouthpiece</li>
+		</ul>
+	
+		<b>SCHEDULE</b><br/>
+		7:00 AM Doors open for registration<br/>
+		8:00 AM Youth Division competition begins<br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARRIVE BY 7:30 AM<br/>
+		9:00 AM Food concession opens<br/>
+		10:30 AM Adult Division competition begins<br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARRIVE BY 9:30 AM<br/>
+		5:00 PM * Awards ceremony and closing<br/>
+<br/>
+		
+		<B>DIRECTIONS</B><br/>
+		<?php echo HTML::anchor("https://maps.google.com/maps?q=%0911400+Robinwood+Drive+%09Hagerstown,+MD+21742&t=m&z=17",
+		"Hagerstown Community College")
+		?><br/>
+		Athletic Recreation and Community Center (ARCC)<br/>
+		11400 Robinwood Drive<br/>
+		Hagerstown, MD 21742<br />
+
+		</div>
+
+	<div class="clearfloat"></div>
+	<div>
+
+		<ol>
+		<li>Exit the Hampton Inn rear parking lot, go right onto Edgewood Drive.</li>
+		<li>Stay on Edgewood Drive which turns into Robinwood Drive (1.7 Miles).</li>
+		<li>Turn left into Hagerstown Community College (there is a stop light)</li>
+		<li>Once on HCC Campus turn left at first intersection, Scholar Drive.</li>
+		<li>Stay on Scholar Drive, the HCC ARCC is on left.</li>
+		</ol>
+		<br/>
+	</div>
+</div>
+
+
 <div class="title">Kyu Exam</div>
 <div class="subtitle">
-	Bailey's Community Center<br />Falls Churc, VA<br />January 11,
+	Bailey's Community Center<br />Falls Church, VA<br />January 11,
 	2014
 </div>
 <p>
