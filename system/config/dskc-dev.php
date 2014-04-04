@@ -6,8 +6,8 @@ return array (
 		'environment' => strtoupper('DEV'),
 		'base_url' => '',
 		'version' => array (
-				'name' => '2.00.13',
-				'released' => '02/21/2014' 
+				'name' => '2.00.14',
+				'released' => '04/04/2014' 
 		), 
 		'calendar' => array(
 				'url' => 'dominionshotokan@gmail.com',
