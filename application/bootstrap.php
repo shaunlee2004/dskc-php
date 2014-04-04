@@ -155,10 +155,10 @@ if ($path = Kohana::find_file("vendor", "Zend".DIRECTORY_SEPARATOR."Loader"))
 /**
  * Enable wordpress
  */
-if ($path = Url::site("wordpress".DIRECTORY_SEPARATOR."wp-load"))
-{
-	ini_set('include_path',
-	ini_get('include_path').PATH_SEPARATOR.dirname(dirname($path)));
+// if ($path = Kohana::find_file("wordpress".DIRECTORY_SEPARATOR."wp-load"))
+// {
+// 	ini_set('include_path',
+// 	ini_get('include_path').PATH_SEPARATOR.dirname(dirname($path)));
 
-	require_once 'wordpress/wp-load.php';
-}
+// 	require_once 'wordpress/wp-load.php';
+// }
