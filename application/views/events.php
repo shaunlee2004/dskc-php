@@ -24,7 +24,8 @@ Group Name: East Coast Shotokan Karate
 		<p>
 		Kyu exam<br />
 		April 19, 2014<br />
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?>
+		<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?><br/>
+		<?php echo HTML::file_anchor("/media/files/kyu_exam_20140419.pdf", "Memorandum") ?><br/>
 		</p>
 	
 		

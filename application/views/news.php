@@ -1,3 +1,15 @@
+<div class="title">Spring Kyu Exam</div>
+<div class="subtitle">
+Bailey's Community Center<br/>
+Falls Church, VA<br/>
+April 19, 2014
+</div>
+<p>
+The kyu exam will be the weekend after the tournament.  Check payments are due by Friday April 11th, cash the week after.  View the <?php echo HTML::file_anchor("/media/files/kyu_exam_20140419.pdf", "Memorandum") ?> for more details
+
+</p>
+
+
 <div class="title">51st East Coast Tournament</div>
 <div class="subtitle">
 Hagerstown Community College<br/>
