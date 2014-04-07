@@ -6,9 +6,9 @@ return array (
 		'environment' => strtoupper('TEST'),
 		'base_url' => 'http://test.dominionshotokan.com',
 		'version' => array (
-				'name' => '2.00.14',
-				'released' => '04/04/2014' 
-						), 
+				'name' => '2.00.15',
+				'released' => '04/7/2014' 
+		), 
 		'calendar' => array(
 				'url' => 'dominionshotokan@gmail.com',
 				'banner_outlay' => 3
