@@ -1,43 +1,55 @@
 <div style="float: left; padding: 5px;">
-	
-<p>
-		Hotel group rate cut-off<br/>
-		March 11, 2014</br>
-		<?php echo HTML::anchor("http://hamptoninn3.hilton.com/en/hotels/maryland/hampton-inn-hagerstown-HGRMDHX/index.html", "Hampton Inn Hagerstown") ?><br/>
-		1716 Dual Highway<br/>
-Hagerstown, MD 21740-6635<br/>
-Telephone 301-739-6100<br/>
-Group Rate: $69/night, two queen, full breakfast<br/>
-Group Name: East Coast Shotokan Karate
 
-</p>
 
-<p>
-		51st ECSKA Championships<br />
-		April 12, 2014<br />
-		Hagerstown, MD<br/>
-		<?php echo HTML::file_anchor("/media/files/tournament_packet_EC_2014.pdf", "Tournament Packet") ?><br/>
-		<?php echo HTML::anchor("http://51ecska.com", "Tournament webpage") ?><br/>
-		<br/>
-		</p>
 
-		<p>
-		Kyu exam<br />
-		April 19, 2014<br />
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?><br/>
-		<?php echo HTML::file_anchor("/media/files/kyu_exam_20140419.pdf", "Memorandum") ?><br/>
-		</p>
-	
-		
-		
-		<p>
-		48th Annual ISKF Master Camp<br />
+	<p>
+		Youth Shiai<br />
+		August 9, 2014<br />
+		<?php echo HTML::anchor("https://maps.google.com/maps?q=James+Lee+Community+Center+2855-A+Annandale+Road+Falls+Church,+VA+22042&t=m", "James Lee Community Center")?><br/>
+		<?php echo HTML::file_anchor("/media/files/2014_ISKF_Youth_Summer_Shiai_(fillable).pdf", "Registration") ?><br/>
+	</p>	
+
+	<p>
+		12th ISKF Pan-American Karate Championships<br />
+		& Masters Seminars<br/>
+		August 14-17, 2014<br />
+		<?php echo HTML::anchor("https://maps.google.com/maps?q=Paseo+de+los+Cocoteros+N%C2%BA+1,+Nuevo+Vallarta,+Mpio.+d+e+Bahia+de+Banderas+Riviera+Nayarit+M%C3%A9xico&hq=Paseo+de+los+Cocoteros+N%C2%BA+1,+Nuevo+Vallarta,+Mpio.+d+e+Bahia+de+Banderas+Riviera+Nayarit+M%C3%A9xico&radius=15000&t=m&z=16"
+			, "PARADISE VILLAGE HOTEL")?><br/>
+			Paseo de los Cocoteros Nº 1,<br/>
+			Nuevo Vallarta, Mpio.<br/>
+			de Bahia de Banderas Riviera<br/>
+			Nayarit México<br/>
+		<?php echo HTML::anchor("http://www.iskf.com/images/PAN%20AM%202014.pdf", "Tournament Packet") ?><br/>
+	</p>
+
+	<p>
+		2014 ISKF US NATIONAL<br/>
+		& COLLEGIATE KARATE CHAMPIONSHIPS<br />
+		September 5th - 7th, 2014<br />
+		<?php echo HTML::anchor("https://maps.google.com/maps?q=Sheraton+Anchorage+Hotel++401+East+6th+Avenue++Anchorage,+Alaska+99501+&radius=15000&t=m&z=15", "Sheraton Anchorage Hotel") ?><br/>
+		401 East 6th Avenue <br/>
+		Anchorage, Alaska 99501 <br/>
+		907-276-8700<br/>
+		<?php echo HTML::anchor("http://www.iskf-alaska.net/2014-ISKF-Nationals.html", "Tournament Site")?><br/>
+	</p>	
+
+	<p>
+		27th Annual ECSKA Fall Camp<br />
 		and Goodwill Tournament<br />
 		<?php echo HTML::anchor("https://maps.google.com/maps?q=Camp+Green+Lane&gl=us&hq=camp+green+lane,+pa&t=m", "Camp Green Lane, PA")?><br/>
-		June 6 - 13, 2014<br />
-		<?php echo HTML::anchor("http://iskf.com/images/2014%20MC%20bc.pdf", "brochure")?>		</p>
+		September 19-21, 2014<br />
+		<?php echo HTML::anchor("http://iskf.com/images/2014%20ecska%20%20fall%20camp.pdf", "brochure")?><br/>
+		Early Registration: August 12 ($30 off)<br/>
+		November Dan exam rescheduled to be during camp
+	</p>
+
+	<p>
+		Fall Kyu Exam<br />
+		October 18, 2014<br />
+		<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?>
+	</p>	
 		
-		</div>
+</div>
 
 
 

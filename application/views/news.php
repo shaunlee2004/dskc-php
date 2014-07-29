@@ -1,3 +1,75 @@
+<div class="title">Dominion Apparel</div>
+<p>
+	Shirt and hoodie orders are due by July 31, 2014
+</p>
+
+<div class="clearfloat"></div>
+
+<div class="paddedImage" style="float: left;">
+	<?php echo HTML::image ( "/media/img/apparel_hoodie_zip.jpg" )?>
+	<div class="caption">
+		Zip Hoodie
+	</div>
+</div>
+<div class="paddedImage" style="float: left;">
+	<?php echo HTML::image ( "/media/img/apparel_hoodie_pullover.jpg" )?>
+	<div class="caption">
+		Pullover Hoodie
+	</div>
+</div>
+<div class="paddedImage" style="float: left;">
+	<?php echo HTML::image ( "/media/img/apparel_tshirt.jpg" )?>
+	<div class="caption">
+		Short-Sleeve
+	</div>
+</div>
+<div class="paddedImage" style="float: left;">
+	<?php echo HTML::image ( "/media/img/apparel_longsleeve.jpg" )?>
+	<div class="caption">
+		Long-Sleeve
+	</div>
+</div>
+<div class="clearfloat"></div>
+<div class="paddedImage" style="float: left;">
+	<?php echo HTML::image ( "/media/img/apparel_back.jpg" )?>
+	<div class="caption">
+		Back of Shirts
+	</div>
+</div>
+<div>
+	Sizes: Youth Medium to Adult 2XL<br/>
+	Full Zip Hoodie: $30.00<br/>
+	Gildan Hoodie: $28.00<br/>
+	100% Cotton Short-Sleeve T-shirt: $11.00<br/>
+	100% Cotton Long-Sleeve T-Shirt: $18.00<br/>
+	Make checks payable to: Dominion Shotokan
+</div>
+
+
+<div class="clearfloat"></div>
+
+<div class="title">51st East Coast Tournament - Results</div>
+<div class="subtitle">
+Hagerstown Community College<br/>
+April 12, 2014
+</div>
+<p>
+	Some of the participants from the 2014 East Coast regional Tournament April 12th in Hagerstown, MD.
+</p>
+
+<div class="clearfloat"></div>
+
+<div class="paddedImage" style="float: left;">
+	<?php
+	echo HTML::image ( "/media/img/east_coast_2014_competitors.jpg", array('height'=> 531, 'width' => 800) )?>
+	<div class="caption">
+		In all, we won 14 medals including silver in team kata
+	</div>
+</div>
+
+<div class="clearfloat"></div>
+
+
 <div class="title">Spring Kyu Exam</div>
 <div class="subtitle">
 Bailey's Community Center<br/>
@@ -143,58 +215,3 @@ Womens Brown Belt Kata-Gold, Kumite-Silver<br/>
 	<div class="caption">Breanna Buerckholtz</div>
 </div>
 <div class="clearfloat"></div>
-
-<div class="title">Fall Festival</div>
-<div class="subtitle">
-	James Lee Community Center<br />Falls Church, VA<br />September 28,
-	2013
-</div>
-<p>
-	The James Lee Community Center held it's second annual Fall Festival to
-	showcase the services in the area. Many students came to support the
-	club and even translating for prospectives. They day ended with a
-	showcase of <span class="japaneseTerm">kata Heian Godan</span>, a
-	demonstration of <span class="japaneseTerm">bunkai</span> (<span
-		class="japaneseTerm">kata</span> interpretation), and some <span
-		class="japaneseTerm">kumite</span> (sparring)
-</p>
-
-<div class="paddedImage" style="float: left;">
-	<?php
-	echo HTML::image ( "/media/img/james_lee_fall_festival_2013.jpg" )?>
-	<div class="caption">karate-ka in action</div>
-</div>
-<div class="clearfloat"></div>
-<!-- 
-<div class="title">Virginia Youth Invitational Tournament</div>
-<div class="subtitle">
-	Newport News<br />December 8, 2012
-</div>
-<p>The first Virginia Youth Invitational Tournament was held in Newport
-	News on December 8, 2012. Dominion Shotokan Karate Club sent 20
-	students to support this event. The students did their dojo proud by
-	winning eight first place, eight second place, and ten third place
-	awards. In addition, our kata team placed first.</p>
-<div class="paddedImage" style="float: left;">
-	<?php
-	echo HTML::image ( "/media/img/fall2012_062-570x378.jpg", array (
-			'width' => 570,
-			'height' => 378 
-	) )?>
-	<div class="caption">Some of the Dominion students who participated in
-		the tournament</div>
-</div>
-<div class="clearfloat"></div>
-<div class="title">Baileys Community Center Clean-up Days</div>
-<div class="subtitle">April and October, 2012</div>
-
-<div class="paddedImage" style="float: left;">
-	<?php
-	echo HTML::image ( "/media/img/Baileys_cleanup_with_sean-482x264.jpg", array (
-			'width' => 482,
-			'height' => 264 
-	) )?>
-	<div class="caption">Director Chon Lacey (back-left, red) leading
-		cleanup efforts with students</div>
-</div>
--->
