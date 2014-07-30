@@ -6,7 +6,7 @@
 		Youth Shiai<br />
 		August 9, 2014<br />
 		<?php echo HTML::anchor("https://maps.google.com/maps?q=James+Lee+Community+Center+2855-A+Annandale+Road+Falls+Church,+VA+22042&t=m", "James Lee Community Center")?><br/>
-		<?php echo HTML::file_anchor("/media/files/2014_ISKF_Youth_Summer_Shiai_(fillable).pdf", "Registration") ?><br/>
+		<?php echo HTML::file_anchor("/media/files/2014_ISKF_Youth_Summer_Shiai_fillable.pdf", "Registration") ?><br/>
 	</p>	
 
 	<p>

@@ -42,6 +42,7 @@
 	Gildan Hoodie: $28.00<br/>
 	100% Cotton Short-Sleeve T-shirt: $11.00<br/>
 	100% Cotton Long-Sleeve T-Shirt: $18.00<br/>
+	+2$ for 2XL garments<br/>
 	Make checks payable to: Dominion Shotokan
 </div>
 
@@ -61,7 +62,7 @@ April 12, 2014
 
 <div class="paddedImage" style="float: left;">
 	<?php
-	echo HTML::image ( "/media/img/east_coast_2014_competitors.jpg", array('height'=> 531, 'width' => 800) )?>
+	echo HTML::image ( "/media/img/east_coast_2014_competitors.jpg" )?>
 	<div class="caption">
 		In all, we won 14 medals including silver in team kata
 	</div>
