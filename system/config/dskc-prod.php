@@ -6,8 +6,8 @@ return array (
 		'environment' => strtoupper('PROD'),
 		'base_url' => 'http://dominionshotokan.com',
 		'version' => array (
-				'name' => '2.00.15',
-				'released' => '04/7/2014' 
+				'name' => '2.00.16',
+				'released' => '07/29/2014' 
 		), 
 		'calendar' => array(
 				'url' => 'dominionshotokan@gmail.com',
