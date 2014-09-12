@@ -1,27 +1,5 @@
 <div style="float: left; padding: 5px;">
 
-
-
-	<p>
-		Youth Shiai<br />
-		August 9, 2014<br />
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=James+Lee+Community+Center+2855-A+Annandale+Road+Falls+Church,+VA+22042&t=m", "James Lee Community Center")?><br/>
-		<?php echo HTML::file_anchor("/media/files/2014_ISKF_Youth_Summer_Shiai_fillable.pdf", "Registration") ?><br/>
-	</p>	
-
-	<p>
-		12th ISKF Pan-American Karate Championships<br />
-		& Masters Seminars<br/>
-		August 14-17, 2014<br />
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=Paseo+de+los+Cocoteros+N%C2%BA+1,+Nuevo+Vallarta,+Mpio.+d+e+Bahia+de+Banderas+Riviera+Nayarit+M%C3%A9xico&hq=Paseo+de+los+Cocoteros+N%C2%BA+1,+Nuevo+Vallarta,+Mpio.+d+e+Bahia+de+Banderas+Riviera+Nayarit+M%C3%A9xico&radius=15000&t=m&z=16"
-			, "PARADISE VILLAGE HOTEL")?><br/>
-			Paseo de los Cocoteros Nº 1,<br/>
-			Nuevo Vallarta, Mpio.<br/>
-			de Bahia de Banderas Riviera<br/>
-			Nayarit México<br/>
-		<?php echo HTML::anchor("http://www.iskf.com/images/PAN%20AM%202014.pdf", "Tournament Packet") ?><br/>
-	</p>
-
 	<p>
 		2014 ISKF US NATIONAL<br/>
 		& COLLEGIATE KARATE CHAMPIONSHIPS<br />
