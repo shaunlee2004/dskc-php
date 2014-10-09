@@ -62,9 +62,9 @@ August 09, 2014
 		<th>Res.</th>
 		<th>Name</th>
 	</tr>
-	<tr class="odd"><td>7-9</td><td>Kata</td><td>1</td><td>Jullianne Cuddeback</td></tr>
+	<tr class="odd"><td>7-9</td><td>Kata</td><td>1</td><td>William Cammack</td></tr>
 	<tr class="odd"><td>7-9</td><td>Kata</td><td>2</td><td>Megan O'Brien</td></tr>
-	<tr class="odd"><td>7-9</td><td>Kata</td><td>3</td><td>William Cammack</td></tr>
+	<tr class="odd"><td>7-9</td><td>Kata</td><td>3</td><td>Jullianne Cuddeback</td></tr>
 
 	<tr class="even"><td>10-11</td><td>Kata</td><td>1</td><td>Jack O'Brien</td></tr>
 	<tr class="even"><td>10-11</td><td>Kata</td><td>2</td><td>Michael Townsend</td></tr>
@@ -76,7 +76,7 @@ August 09, 2014
 
 	<tr class="even"><td>14-17</td><td>Kata</td><td>1</td><td>Nicholas Cuddeback</td></tr>
 	<tr class="even"><td>14-17</td><td>Kata</td><td>2</td><td>Elisa Townsend</td></tr>
-	<tr class="even"><td>14-17</td><td>Kata</td><td>3</td><td>X</td></tr>
+	<tr class="even"><td>14-17</td><td>Kata</td><td>3</td><td>Joseph Asbridge</td></tr>
 
 	<tr class="odd"><td>7-9</td><td>Kumite</td><td>1</td><td>William Cammack</td></tr>
 	<tr class="odd"><td>7-9</td><td>Kumite</td><td>2</td><td>Megan O'Brien</td></tr>
