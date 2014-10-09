@@ -1,31 +1,18 @@
 <div style="float: left; padding: 5px;">
 
 	<p>
-		2014 ISKF US NATIONAL<br/>
-		& COLLEGIATE KARATE CHAMPIONSHIPS<br />
-		September 5th - 7th, 2014<br />
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=Sheraton+Anchorage+Hotel++401+East+6th+Avenue++Anchorage,+Alaska+99501+&radius=15000&t=m&z=15", "Sheraton Anchorage Hotel") ?><br/>
-		401 East 6th Avenue <br/>
-		Anchorage, Alaska 99501 <br/>
-		907-276-8700<br/>
-		<?php echo HTML::anchor("http://www.iskf-alaska.net/2014-ISKF-Nationals.html", "Tournament Site")?><br/>
-	</p>	
-
-	<p>
-		27th Annual ECSKA Fall Camp<br />
-		and Goodwill Tournament<br />
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=Camp+Green+Lane&gl=us&hq=camp+green+lane,+pa&t=m", "Camp Green Lane, PA")?><br/>
-		September 19-21, 2014<br />
-		<?php echo HTML::anchor("http://iskf.com/images/2014%20ecska%20%20fall%20camp.pdf", "brochure")?><br/>
-		Early Registration: August 12 ($30 off)<br/>
-		November Dan exam rescheduled to be during camp
-	</p>
-
-	<p>
 		Fall Kyu Exam<br />
 		October 18, 2014<br />
+		<?php echo HTML::file_anchor("/media/files/kyu_exam_20141018.pdf", "Memorandum")?><br/>
 		<?php echo HTML::anchor("https://maps.google.com/maps?q=5920+Summers+Lane+Falls+Church,+VA+2204&t=m", "Bailey&#39;s Community Center")?>
-	</p>	
+	</p>
+
+<p>
+	East Coast Collegiate Karate Union Camp<br/>
+	November 01-02, 2014<br/>
+	<?php echo HTML::anchor("https://maps.google.com/maps?q=brown+university&ll=41.826787,-71.40255&spn=0.02456,0.049653&cid=828215916690022603&t=m&z=15Brown-University", "Brown University, Providence, RI")?><br/>
+	Contact <?php echo HTML::mailto("jd.swanson@salve.edu", "Dr. JD Swanson")?>
+</p>	
 		
 </div>
 
