@@ -26,6 +26,7 @@
 			<li class='active has-sub'>
 				<?php echo Html::anchor('page/photosAmin2014', '<span>Event Photos</span>');?>
 				<ul>
+					<li><?php echo Html::anchor('page/photosRiellyPohle2015', '<span>Rielly &amp;<br/>&nbsp;&nbsp;&nbsp;Pohle 2015</span>');?></li>
 					<li><?php echo Html::anchor('page/photosShiai2014', '<span>Shiai 2014</span>');?></li>
 					<li><?php echo Html::anchor('page/photosAmin2014', '<span>Amin 2014</span>');?></li>
 					<li><?php echo Html::anchor('page/photosTuluceanu2013', '<span>Tuluceanu 2013</span>');?></li>
