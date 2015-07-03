@@ -71,6 +71,12 @@
 </div>
 
 <div style="clear:both;">
+	<p style="float: left; width: 40%;">Shaun Lee began training with Sensei Steve Pohle at William and Mary
+		and has continued training with the ISKF since 2001, reaching the rank
+		of sandan. He has studied under numerous instructors in Michigan and
+		Virginia as well as through the ISKF 's Master and Fall Camps, clinics,
+		and tournaments. He is currently enrolled in the ISKF Instructor
+		Trainee program.</p>
 	<p>Dov Rhodes grew up in Israel, where he spent his formative years training under the instruction of Sensei Isidor Peled of the JKA, from 1992 to 2001. Upon moving to Chicago in 2001, he trained with Sensei Jordan Scott until going to study at Indiana University, Bloomington, where he served as university club president. Returning to Israel in 2007, he attended the renowned dojo of Sensei Oded Friedman of the ISKF. Moving to New York in 2011, he trained at Columbia University under Sensei Kariya of the JKA, until finally arriving in Falls Church, VA., in 2014. Rhodes, ranked 3rd Dan, is pleased to be training with Sensei Majors, and is also enrolled in the ISKF Instructor trainee program. </p>
 </div>
 
