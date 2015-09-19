@@ -49,18 +49,21 @@
 	Dynamic Karate
 	<?php echo HTML::anchor('http://www.amazon.com/Dynamic-Karate-Masatoshi-Nakayama/dp/156836413X/', 'ISBN: 978-1568364131')?><br/>
 	<div style="float: left; position: relative;">
-		<?php echo HTML::image("/media/img/book_best_karate_1.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_2.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_3.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_4.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_5.jpg", array('height'=> 120, 'width' => 80))?>
-		<br />
-		<?php echo HTML::image("/media/img/book_best_karate_6.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_7.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_8.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_9.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_10.jpg", array('height'=> 120, 'width' => 80))?>
-		<?php echo HTML::image("/media/img/book_best_karate_11.jpg", array('height'=> 120, 'width' => 80))?>
+		<div>
+			<?php echo HTML::image("/media/img/book_best_karate_1.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_2.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_3.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_4.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_5.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_6.jpg", array('height'=> 120, 'width' => 80))?>
+		</div>
+		<div>			
+			<?php echo HTML::image("/media/img/book_best_karate_7.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_8.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_9.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_10.jpg", array('height'=> 120, 'width' => 80))?>
+			<?php echo HTML::image("/media/img/book_best_karate_11.jpg", array('height'=> 120, 'width' => 80))?>
+		</div>
 	</div>
 	<?php echo HTML::image("/media/img/book_dynamic_karate.jpg", array('height'=> 244, 'width' => 171))?>
 </div>
@@ -159,10 +162,13 @@
 	Karate Masters: Volume 4
 	<?php echo HTML::anchor('http://www.amazon.com/Karate-Masters-Jose-M-Fraguas/dp/1933901497/', 'ISBN: 978-1933901497')?><br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;*Yutaka Yaguchi and Hiroyoshi Okazaki<br />
+	Karate Masters: Volume 5 978-1-933901-53-4<br/>
 <?php echo HTML::image("/media/img/book_karate_masters_1.jpg", array('height'=> 215, 'width' => 149))?>
 <?php echo HTML::image("/media/img/book_karate_masters_2.jpg", array('height'=> 215, 'width' => 149))?>
 <?php echo HTML::image("/media/img/book_karate_masters_3.jpg", array('height'=> 215, 'width' => 149))?>
 <?php echo HTML::image("/media/img/book_karate_masters_4.jpg", array('height'=> 215, 'width' => 151))?>
+<?php echo HTML::image("/media/img/book_karate_masters_5.jpg", array('height'=> 215, 'width' => 144))?>
+
 </div>
 
 <div class="clearfloat"></div>
