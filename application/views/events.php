@@ -1,24 +1,26 @@
 <div style="float: left; padding: 5px;">
+	<p>
+		<b>Fall Kyu Exam</b><br/>
+		October 17, 2015 9AM - 2PM<br/>
+		Bailey's Community Center<br/>
+	</p>
 
 	<p>
-		ECSKA Fall Camp and Goodwill Tournament<br/>
-		September 11-13, 2015<br/>
-		<?php echo HTML::anchor("https://maps.google.com/maps?q=camp+green+lane&oe=utf-8&t=m&z=16&iwloc=A", "Green Lane, PA")?><br/>
-	</p>	
-
-
-	<p>
-		ISKF/US National Tournament<br/>
+		<b>ISKF/US National Tournament</b><br/>
+		<?php echo HTML::anchor("https://www.google.com/maps/place/Hyatt+Regency+San+Francisco+Airport/@37.59361,-122.36527,15z/data=!4m2!3m1!1s0x0:0x66d848e8e05f3445", "Hyatt Regency San Francisco Airport Hotel")?><br/>
 		November 13-15, 2015<br/>
-		San Francisco, CA<br/>
+		San Francisco, CA<br/>		
+		<?php echo HTML::anchor("http://iskfnw.org/2015Nationals/default.htm", "Registration website")?><br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forms and Money due to Sensei by Monday 28-Sept<br/>
+		Hotel Reservations:<br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<?php echo HTML::anchor("https://resweb.passkey.com/go/ISKFSFO", "https://resweb.passkey.com/go/ISKFSFO")?><br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-888-421-1442<br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group code: 2015 ISKF National<br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deadline: Monday 12-Oct-2015<br/>
 		<br/>
 	</p>	
 
 </div>
-
-
-
-
 
 <div class="title">Tournaments</div>
 <p>
